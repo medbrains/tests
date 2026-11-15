@@ -1,0 +1,1 @@
+{"id":"2f9a56f15a1966bb2da9cb0d00c13c5f.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::hai_rate_report_test::hai_rate_is_null_when_the_denominator_is_missing","name":"hai_rate_is_null_when_the_denominator_is_missing","status":"passed","testResultsByEnv":{"default":"256f9a31e00aaf8920a0112e57179db4"}}

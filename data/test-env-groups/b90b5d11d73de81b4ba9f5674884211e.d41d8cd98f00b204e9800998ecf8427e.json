@@ -1,0 +1,1 @@
+{"id":"b90b5d11d73de81b4ba9f5674884211e.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/token-board-frame.test.ts#classifyBoardFrame > ignores the frames that are neither, rather than guessing","name":"ignores the frames that are neither, rather than guessing","status":"passed","testResultsByEnv":{"default":"7b3a705241d61da1eae90e9211dc3b53"}}

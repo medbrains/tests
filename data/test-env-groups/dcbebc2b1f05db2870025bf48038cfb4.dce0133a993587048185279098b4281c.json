@@ -1,0 +1,1 @@
+{"id":"dcbebc2b1f05db2870025bf48038cfb4.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=dietitian › /api/cssd/loads (perm=cssd.sterilization.list)","name":"/api/cssd/loads (perm=cssd.sterilization.list)","status":"skipped","testResultsByEnv":{"default":"62f68b0fd97b8c3b17fc8a81030a21a6"}}

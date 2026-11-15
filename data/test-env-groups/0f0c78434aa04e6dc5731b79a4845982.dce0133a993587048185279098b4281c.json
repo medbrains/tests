@@ -1,0 +1,1 @@
+{"id":"0f0c78434aa04e6dc5731b79a4845982.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=ambulance_driver › /api/blood-bank/donors (perm=blood_bank.donors.list)","name":"/api/blood-bank/donors (perm=blood_bank.donors.list)","status":"skipped","testResultsByEnv":{"default":"7b4e299816a785a26ac68f020d0f868c"}}

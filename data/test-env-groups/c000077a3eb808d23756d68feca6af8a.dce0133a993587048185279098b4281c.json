@@ -1,0 +1,1 @@
+{"id":"c000077a3eb808d23756d68feca6af8a.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=blood_bank_tech › /api/procurement/vendors (perm=procurement.vendors.list)","name":"/api/procurement/vendors (perm=procurement.vendors.list)","status":"skipped","testResultsByEnv":{"default":"06732bfef8aa1f1929d11282e79468f5"}}

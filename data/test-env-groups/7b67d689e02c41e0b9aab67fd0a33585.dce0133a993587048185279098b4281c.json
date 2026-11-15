@@ -1,0 +1,1 @@
+{"id":"7b67d689e02c41e0b9aab67fd0a33585.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=super_admin › /api/pharmacy/orders (perm=pharmacy.prescriptions.list)","name":"/api/pharmacy/orders (perm=pharmacy.prescriptions.list)","status":"passed","testResultsByEnv":{"default":"f55a4d8dc8c297f79dc2401e6a5f589d"}}

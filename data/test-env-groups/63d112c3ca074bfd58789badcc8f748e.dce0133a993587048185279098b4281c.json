@@ -1,0 +1,1 @@
+{"id":"63d112c3ca074bfd58789badcc8f748e.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=ot_staff › /api/camp/camps (perm=camp.list)","name":"/api/camp/camps (perm=camp.list)","status":"skipped","testResultsByEnv":{"default":"fea7c714881f7a7c9f6b97caa5e310ed"}}

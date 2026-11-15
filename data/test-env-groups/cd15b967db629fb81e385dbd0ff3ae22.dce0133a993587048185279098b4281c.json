@@ -1,0 +1,1 @@
+{"id":"cd15b967db629fb81e385dbd0ff3ae22.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=biomed_engineer › /api/patients (perm=patients.list)","name":"/api/patients (perm=patients.list)","status":"skipped","testResultsByEnv":{"default":"c9a6c2a674ab86595beb8e6cbee0a060"}}

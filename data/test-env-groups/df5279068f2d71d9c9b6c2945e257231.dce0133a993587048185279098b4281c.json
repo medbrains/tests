@@ -1,0 +1,1 @@
+{"id":"df5279068f2d71d9c9b6c2945e257231.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=super_admin › /api/radiology/orders (perm=radiology.orders.list)","name":"/api/radiology/orders (perm=radiology.orders.list)","status":"passed","testResultsByEnv":{"default":"6c4b7a46d9848aa449bc8af689c7e5c0"}}

@@ -1,0 +1,1 @@
+{"id":"f41120c9ebc684238e5c6c20381cd97b.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/pharmacy/transfer-create-drawer.test.tsx#raising a stock transfer > does not read stock until a source store is named","name":"does not read stock until a source store is named","status":"passed","testResultsByEnv":{"default":"fcafd120958e39acc64860b057aeecec"}}

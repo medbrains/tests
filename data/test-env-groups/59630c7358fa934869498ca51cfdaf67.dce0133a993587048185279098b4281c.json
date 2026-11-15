@@ -1,0 +1,1 @@
+{"id":"59630c7358fa934869498ca51cfdaf67.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=super_admin › /api/cssd/loads (perm=cssd.sterilization.list)","name":"/api/cssd/loads (perm=cssd.sterilization.list)","status":"passed","testResultsByEnv":{"default":"c05b460609a6a0abe9fa17550427c774"}}

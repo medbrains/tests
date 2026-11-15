@@ -1,0 +1,1 @@
+{"id":"acb11164b1c1705a5fa5520a58dc023d.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=canteen_staff › /api/hr/employees (perm=hr.employees.list)","name":"/api/hr/employees (perm=hr.employees.list)","status":"skipped","testResultsByEnv":{"default":"154095a29f0794b3f89b342775966d1d"}}

@@ -1,0 +1,1 @@
+{"id":"0b1fbf0fc7f6a3f4b45301e897f0ad38.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=canteen_staff › /api/lab/orders (perm=lab.orders.list)","name":"/api/lab/orders (perm=lab.orders.list)","status":"skipped","testResultsByEnv":{"default":"a3d212c9b319eb30d599ee22917f47b2"}}

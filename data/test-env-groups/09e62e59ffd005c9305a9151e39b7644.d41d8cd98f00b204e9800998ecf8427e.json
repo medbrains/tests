@@ -1,0 +1,1 @@
+{"id":"09e62e59ffd005c9305a9151e39b7644.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-marketing::telephony::tests::a_rejected_call_does_not_raise_a_callback_but_an_abandoned_one_does","name":"a_rejected_call_does_not_raise_a_callback_but_an_abandoned_one_does","status":"passed","testResultsByEnv":{"default":"dfeb673ec79f1bbd75d49a555831542d"}}

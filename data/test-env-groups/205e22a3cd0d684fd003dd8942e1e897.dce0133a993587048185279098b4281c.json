@@ -1,0 +1,1 @@
+{"id":"205e22a3cd0d684fd003dd8942e1e897.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=super_admin › /api/indent/requisitions (perm=indent.list)","name":"/api/indent/requisitions (perm=indent.list)","status":"passed","testResultsByEnv":{"default":"3cd595727f2f07a7a19c2acc5dcdcfd4"}}

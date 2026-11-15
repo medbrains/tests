@@ -1,0 +1,1 @@
+{"id":"de90b8f0b3de0dcff10556c62f4661c0.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::abdm_callback_auth_test::only_the_gateways_own_token_opens_a_callback","name":"only_the_gateways_own_token_opens_a_callback","status":"passed","testResultsByEnv":{"default":"f5e0dc909544d98dd04f11d864beb264"}}

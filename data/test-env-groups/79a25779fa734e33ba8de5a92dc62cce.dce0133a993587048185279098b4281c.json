@@ -1,0 +1,1 @@
+{"id":"79a25779fa734e33ba8de5a92dc62cce.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=audit_officer › /api/bme/equipment (perm=bme.equipment.list)","name":"/api/bme/equipment (perm=bme.equipment.list)","status":"skipped","testResultsByEnv":{"default":"d4e12cd6495ff1f94ebcdb72d9b84f57"}}

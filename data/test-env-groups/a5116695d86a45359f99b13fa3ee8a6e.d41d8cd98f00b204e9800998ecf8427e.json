@@ -1,0 +1,1 @@
+{"id":"a5116695d86a45359f99b13fa3ee8a6e.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/lib/vital-units.test.ts#round trips do not drift > zero and negatives pass through the maths unguarded","name":"zero and negatives pass through the maths unguarded","status":"passed","testResultsByEnv":{"default":"d39efe814088511ea347c9b644a3c840"}}

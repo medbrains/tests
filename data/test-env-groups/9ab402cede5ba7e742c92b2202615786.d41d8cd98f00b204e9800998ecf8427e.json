@@ -1,0 +1,1 @@
+{"id":"9ab402cede5ba7e742c92b2202615786.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::pharmacy_buy_outside_test::a_buy_outside_line_is_never_billed_nor_asked_for_at_the_payment_gate","name":"a_buy_outside_line_is_never_billed_nor_asked_for_at_the_payment_gate","status":"passed","testResultsByEnv":{"default":"7d70cee64161fb08d65a190a99bbc912"}}

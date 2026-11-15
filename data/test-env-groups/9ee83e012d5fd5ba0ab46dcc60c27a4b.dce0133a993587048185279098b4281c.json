@@ -1,0 +1,1 @@
+{"id":"9ee83e012d5fd5ba0ab46dcc60c27a4b.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=dietitian › /api/billing/invoices (perm=billing.invoices.list)","name":"/api/billing/invoices (perm=billing.invoices.list)","status":"skipped","testResultsByEnv":{"default":"94a46bd1baf66efa036c347f9d6a8113"}}

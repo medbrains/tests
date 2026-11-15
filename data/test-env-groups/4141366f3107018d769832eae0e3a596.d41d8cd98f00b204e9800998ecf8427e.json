@@ -1,0 +1,1 @@
+{"id":"4141366f3107018d769832eae0e3a596.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-bridge::bin/medbrains-bridge::transport::wss::tests::cloud_url_handles_trailing_slash_in_ingress","name":"cloud_url_handles_trailing_slash_in_ingress","status":"passed","testResultsByEnv":{"default":"8da9c34f16e1084d10e5b250253fedfa"}}

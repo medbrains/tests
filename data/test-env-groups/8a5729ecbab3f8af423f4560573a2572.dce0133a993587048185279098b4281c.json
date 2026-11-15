@@ -1,0 +1,1 @@
+{"id":"8a5729ecbab3f8af423f4560573a2572.dce0133a993587048185279098b4281c","fullName":"rbac/layer-coverage.spec.ts › Layer 4 — List scope (rebac) › bypass admin sees all tenant patients (>0)","name":"bypass admin sees all tenant patients (>0)","status":"broken","testResultsByEnv":{"default":"aca3b8421e248dc506a3d90037cf0aee"}}

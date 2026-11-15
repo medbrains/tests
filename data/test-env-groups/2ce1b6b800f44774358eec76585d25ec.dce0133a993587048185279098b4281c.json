@@ -1,0 +1,1 @@
+{"id":"2ce1b6b800f44774358eec76585d25ec.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=dietitian › /api/front-office/visitors (perm=front_office.visitors.list)","name":"/api/front-office/visitors (perm=front_office.visitors.list)","status":"skipped","testResultsByEnv":{"default":"16348a093610a047bc073d32f2929774"}}

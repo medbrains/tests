@@ -1,0 +1,1 @@
+{"id":"90e5bb2bfe87f693883957f3227fc861.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/Patient/patient-journey-routes.test.ts#imaging handoff > offers nothing when the chart has no imaging","name":"offers nothing when the chart has no imaging","status":"passed","testResultsByEnv":{"default":"e1a3bf4d11d531a0e6b166f4b0c105b0"}}

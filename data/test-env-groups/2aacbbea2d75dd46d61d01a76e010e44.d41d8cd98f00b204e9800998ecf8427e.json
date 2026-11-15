@@ -1,0 +1,1 @@
+{"id":"2aacbbea2d75dd46d61d01a76e010e44.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/opd/vitals-thresholds.test.ts#bloodPressureSeverity > prefers high over low on a contradictory reading","name":"prefers high over low on a contradictory reading","status":"passed","testResultsByEnv":{"default":"ff6c821bc71c2a470699a583ec50f811"}}

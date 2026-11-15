@@ -1,0 +1,1 @@
+{"id":"59067754cad989f44a4fd2ed126a8cc2.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=pharmacist › /api/indent/requisitions (perm=indent.list)","name":"/api/indent/requisitions (perm=indent.list)","status":"passed","testResultsByEnv":{"default":"4f5d40ca5db213ca1210d3ad3ff5baa9"}}

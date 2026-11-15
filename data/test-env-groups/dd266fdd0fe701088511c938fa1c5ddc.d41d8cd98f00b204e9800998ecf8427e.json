@@ -1,0 +1,1 @@
+{"id":"dd266fdd0fe701088511c938fa1c5ddc.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/Pharmacy/safetyGate.test.ts#pharmacy safety gate > never lets a failed or unfinished check read as clear","name":"never lets a failed or unfinished check read as clear","status":"passed","testResultsByEnv":{"default":"29364d95d7d828bc1a42a07aaf017c65"}}

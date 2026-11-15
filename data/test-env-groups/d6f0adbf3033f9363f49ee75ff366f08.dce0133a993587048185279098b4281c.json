@@ -1,0 +1,1 @@
+{"id":"d6f0adbf3033f9363f49ee75ff366f08.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=front_office_staff › /api/radiology/orders (perm=radiology.orders.list)","name":"/api/radiology/orders (perm=radiology.orders.list)","status":"skipped","testResultsByEnv":{"default":"89a8475d628f107c16718740e196addb"}}

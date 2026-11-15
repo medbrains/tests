@@ -1,0 +1,1 @@
+{"id":"e1e1792790ad5cb7af59fc8e47dc2fbd.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=quality_officer › /api/ot/bookings (perm=ot.bookings.list)","name":"/api/ot/bookings (perm=ot.bookings.list)","status":"skipped","testResultsByEnv":{"default":"d7c810b0c5e69e3b921d63fd59b68222"}}

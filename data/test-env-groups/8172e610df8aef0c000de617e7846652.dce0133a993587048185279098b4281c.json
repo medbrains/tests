@@ -1,0 +1,1 @@
+{"id":"8172e610df8aef0c000de617e7846652.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=camp_coordinator › /api/front-office/visitors (perm=front_office.visitors.list)","name":"/api/front-office/visitors (perm=front_office.visitors.list)","status":"skipped","testResultsByEnv":{"default":"706c2edf36303d106ef87596f32b3ec3"}}

@@ -1,0 +1,1 @@
+{"id":"70ac06625d8423792503aba7642e1cf0.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=audit_officer › /api/hr/employees (perm=hr.employees.list)","name":"/api/hr/employees (perm=hr.employees.list)","status":"skipped","testResultsByEnv":{"default":"7be6474ade9fc09db42645a7119ea027"}}

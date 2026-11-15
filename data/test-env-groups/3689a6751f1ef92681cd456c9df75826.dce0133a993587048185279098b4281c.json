@@ -1,0 +1,1 @@
+{"id":"3689a6751f1ef92681cd456c9df75826.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=dietitian › /api/lab/orders (perm=lab.orders.list)","name":"/api/lab/orders (perm=lab.orders.list)","status":"skipped","testResultsByEnv":{"default":"4744100a094b529fd930ff386930cbed"}}

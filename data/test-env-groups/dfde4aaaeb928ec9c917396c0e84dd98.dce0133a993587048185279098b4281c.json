@@ -1,0 +1,1 @@
+{"id":"dfde4aaaeb928ec9c917396c0e84dd98.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=procurement_officer › /api/bme/equipment (perm=bme.equipment.list)","name":"/api/bme/equipment (perm=bme.equipment.list)","status":"skipped","testResultsByEnv":{"default":"d836c2b2a80e6de2fbbc9e8bf5212844"}}

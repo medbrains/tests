@@ -1,0 +1,1 @@
+{"id":"6a3eacc6f0930c4b2e5d58b39b9614ec.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=pharmacist › /api/billing/invoices (perm=billing.invoices.list)","name":"/api/billing/invoices (perm=billing.invoices.list)","status":"passed","testResultsByEnv":{"default":"54aa541761072fad6dc2379e28cdd979"}}

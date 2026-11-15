@@ -1,0 +1,1 @@
+{"id":"fb10c966ac7fd4051fa0bf60b38d6b8e.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=quality_officer › /api/insurance/prior-auths (perm=insurance.prior_auth.list)","name":"/api/insurance/prior-auths (perm=insurance.prior_auth.list)","status":"skipped","testResultsByEnv":{"default":"702b1c4cf71552ee238f3efda401b708"}}

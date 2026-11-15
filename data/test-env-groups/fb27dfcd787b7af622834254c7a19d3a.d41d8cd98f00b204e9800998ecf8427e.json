@@ -1,0 +1,1 @@
+{"id":"fb27dfcd787b7af622834254c7a19d3a.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-it-security::authz_coverage_tests::every_db_handler_is_gated_or_self_scoped","name":"every_db_handler_is_gated_or_self_scoped","status":"passed","testResultsByEnv":{"default":"e4672d808345917c4b7a85533f97928d"}}

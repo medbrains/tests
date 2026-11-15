@@ -1,0 +1,1 @@
+{"id":"7e8f97c270671cf0fa8804d1bf1a292e.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=lab_technician › /api/ot/bookings (perm=ot.bookings.list)","name":"/api/ot/bookings (perm=ot.bookings.list)","status":"skipped","testResultsByEnv":{"default":"bb362ae17c439752c7913b6c5cca27b1"}}

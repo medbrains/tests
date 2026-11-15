@@ -1,0 +1,1 @@
+{"id":"37c731bd78875139a7dbc3acc8ed6b56.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/clinical-events.test.ts#clinical event normalization > tracks OPD queue and order events without missing payload keys","name":"tracks OPD queue and order events without missing payload keys","status":"passed","testResultsByEnv":{"default":"7123bdeb487a94a41e2bdf86e1e2f3ed"}}

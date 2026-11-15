@@ -1,0 +1,1 @@
+{"id":"32596dd8485e17d37ed701388b2f4f2e.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/pharmacy/return-refund.test.ts#counter refund arithmetic (mirrors return_rules.rs) > rounds a half paisa to even, as rust_decimal does","name":"rounds a half paisa to even, as rust_decimal does","status":"passed","testResultsByEnv":{"default":"470d9c47149b54928721dea5dc259f89"}}

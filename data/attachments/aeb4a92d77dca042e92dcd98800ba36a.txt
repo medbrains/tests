@@ -1,0 +1,6 @@
+CRAWLED camp_coordinator /dashboard []
+CRAWLED camp_coordinator /approvals []
+CRAWLED camp_coordinator /health-pulse []
+CRAWLED camp_coordinator /front-office []
+CRAWLED camp_coordinator /camp []
+ROBUSTNESS camp_coordinator {"pages":5,"problems":[]}

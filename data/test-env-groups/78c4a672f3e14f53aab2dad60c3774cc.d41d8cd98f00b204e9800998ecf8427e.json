@@ -1,0 +1,1 @@
+{"id":"78c4a672f3e14f53aab2dad60c3774cc.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/Patient/abdm/fhirSections.test.ts#readDocument > turns an inline attachment into a download, and drops non-web links","name":"turns an inline attachment into a download, and drops non-web links","status":"passed","testResultsByEnv":{"default":"2173e7f6fb89c8b8cffc88a994e5195b"}}

@@ -1,0 +1,1 @@
+{"id":"7e5eb66e313c9a5b6eb07129e6835d3b.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=cssd_technician › /api/ambulance/trips (perm=ambulance.trips.list)","name":"/api/ambulance/trips (perm=ambulance.trips.list)","status":"skipped","testResultsByEnv":{"default":"89670561d84629e5983b0406d254bc77"}}

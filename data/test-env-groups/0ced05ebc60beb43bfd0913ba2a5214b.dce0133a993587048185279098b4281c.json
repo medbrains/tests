@@ -1,0 +1,1 @@
+{"id":"0ced05ebc60beb43bfd0913ba2a5214b.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=mrd_officer › /api/front-office/visitors (perm=front_office.visitors.list)","name":"/api/front-office/visitors (perm=front_office.visitors.list)","status":"skipped","testResultsByEnv":{"default":"9cfe3f916243283a1e8dc77d5bf53152"}}

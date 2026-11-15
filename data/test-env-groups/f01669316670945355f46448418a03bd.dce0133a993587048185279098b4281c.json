@@ -1,0 +1,1 @@
+{"id":"f01669316670945355f46448418a03bd.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=billing_clerk › /api/pharmacy/orders (perm=pharmacy.prescriptions.list)","name":"/api/pharmacy/orders (perm=pharmacy.prescriptions.list)","status":"passed","testResultsByEnv":{"default":"62759753a3fcf2d2eb77ad91f177c526"}}

@@ -1,0 +1,1 @@
+{"id":"35b610cd01389394d2b6351f56fd45bd.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=cssd_technician › /api/bme/equipment (perm=bme.equipment.list)","name":"/api/bme/equipment (perm=bme.equipment.list)","status":"skipped","testResultsByEnv":{"default":"a0ac479214f8fd629208c3674829d71f"}}

@@ -1,0 +1,1 @@
+{"id":"947bc1cbb299f3cbb5220946b32ca6c8.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::opd_queue_wait_report_test::queue_wait_report_returns_live_rows_for_called_patients","name":"queue_wait_report_returns_live_rows_for_called_patients","status":"passed","testResultsByEnv":{"default":"d3626a7e83497bafbe63f2f2382b572c"}}

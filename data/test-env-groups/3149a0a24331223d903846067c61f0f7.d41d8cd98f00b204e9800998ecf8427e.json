@@ -1,0 +1,1 @@
+{"id":"3149a0a24331223d903846067c61f0f7.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/admin/settings/BackupStatusCard.test.tsx#BackupStatusCard > is up to date when the last good backup is under 26 hours old","name":"is up to date when the last good backup is under 26 hours old","status":"passed","testResultsByEnv":{"default":"87a25c97a03b6f55d7de11b88d6f8f00"}}

@@ -1,0 +1,1 @@
+{"id":"ecebfade9c6ebbc1f824aac946a83832.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=nurse › /api/diet/orders (perm=diet.orders.list)","name":"/api/diet/orders (perm=diet.orders.list)","status":"passed","testResultsByEnv":{"default":"79b83d36e33558b16df1f3085bb1a5ed"}}

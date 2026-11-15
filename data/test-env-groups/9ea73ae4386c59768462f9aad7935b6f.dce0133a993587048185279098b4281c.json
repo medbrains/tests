@@ -1,0 +1,1 @@
+{"id":"9ea73ae4386c59768462f9aad7935b6f.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=mrd_officer › /api/pharmacy/orders (perm=pharmacy.prescriptions.list)","name":"/api/pharmacy/orders (perm=pharmacy.prescriptions.list)","status":"skipped","testResultsByEnv":{"default":"95a1c8ea425af6e744d4f4478eee4d6e"}}

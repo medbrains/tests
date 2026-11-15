@@ -1,0 +1,1 @@
+{"id":"0696cb0959b5591d2d6baa5c3fb92973.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=nurse › /api/radiology/orders (perm=radiology.orders.list)","name":"/api/radiology/orders (perm=radiology.orders.list)","status":"passed","testResultsByEnv":{"default":"3c220dc7f9c4f972e874576d30847fd3"}}

@@ -1,0 +1,1 @@
+{"id":"8ab3c24f493649e8a14b8b359f5f50f0.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=lab_technician › /api/hr/employees (perm=hr.employees.list)","name":"/api/hr/employees (perm=hr.employees.list)","status":"skipped","testResultsByEnv":{"default":"00f974a45ad35a1318ad3db9069944e8"}}

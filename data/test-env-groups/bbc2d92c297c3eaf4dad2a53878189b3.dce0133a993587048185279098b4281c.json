@@ -1,0 +1,1 @@
+{"id":"bbc2d92c297c3eaf4dad2a53878189b3.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=receptionist › /api/diet/orders (perm=diet.orders.list)","name":"/api/diet/orders (perm=diet.orders.list)","status":"passed","testResultsByEnv":{"default":"7dda9f71f1f755b6178bcb25d635ae1c"}}

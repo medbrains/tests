@@ -1,0 +1,1 @@
+{"id":"5f87cd229cd0b9f717acee58b7af7a68.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=store_keeper › /api/bme/equipment (perm=bme.equipment.list)","name":"/api/bme/equipment (perm=bme.equipment.list)","status":"skipped","testResultsByEnv":{"default":"e962cd45315c86a65c167132448fb519"}}

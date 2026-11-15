@@ -1,0 +1,1 @@
+{"id":"178a5c9c570d82c87a43aec87f2567de.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=hospital_admin › /api/diet/orders (perm=diet.orders.list)","name":"/api/diet/orders (perm=diet.orders.list)","status":"passed","testResultsByEnv":{"default":"704f501f717bbb22a90bb6eabb126f72"}}

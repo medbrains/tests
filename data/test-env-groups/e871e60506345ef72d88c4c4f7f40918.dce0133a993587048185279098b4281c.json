@@ -1,0 +1,1 @@
+{"id":"e871e60506345ef72d88c4c4f7f40918.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=dietitian › /api/opd/encounters (perm=opd.queue.list)","name":"/api/opd/encounters (perm=opd.queue.list)","status":"skipped","testResultsByEnv":{"default":"be293d64c831d3140f5fd601a1f00413"}}

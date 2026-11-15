@@ -1,0 +1,1 @@
+{"id":"c99570573344f3f384f673f1f9c284e8.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=procurement_officer › /api/patients (perm=patients.list)","name":"/api/patients (perm=patients.list)","status":"skipped","testResultsByEnv":{"default":"3ab60f8696b055f7f8b00629b86c10d3"}}

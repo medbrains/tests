@@ -1,0 +1,1 @@
+{"id":"e2f4ab4802e20ce352951d6866a1e9c8.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/Nhcx/eligibilitySummary.test.ts#summariseEligibility > never reads a pending check as not covered","name":"never reads a pending check as not covered","status":"passed","testResultsByEnv":{"default":"65923d7448fc04d22e53a717a70a8be5"}}

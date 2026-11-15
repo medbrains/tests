@@ -1,0 +1,1 @@
+{"id":"0320876206176ff0932e1a8ad32d50b0.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/radiology/dose-tab.test.tsx#DoseTab > refuses an empty dose and records a CT dose","name":"refuses an empty dose and records a CT dose","status":"passed","testResultsByEnv":{"default":"13c962e36eea922641457f9b661d3bc0"}}

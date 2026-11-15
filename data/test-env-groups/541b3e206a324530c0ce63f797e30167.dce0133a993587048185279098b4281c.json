@@ -1,0 +1,1 @@
+{"id":"541b3e206a324530c0ce63f797e30167.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=front_office_staff › /api/mrd/records (perm=mrd.records.list)","name":"/api/mrd/records (perm=mrd.records.list)","status":"skipped","testResultsByEnv":{"default":"d629adb25e10bd59c911bde429c5514e"}}

@@ -1,0 +1,1 @@
+{"id":"400df29e7e7224a241df223c7dbc0cce.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=security_guard › /api/procurement/vendors (perm=procurement.vendors.list)","name":"/api/procurement/vendors (perm=procurement.vendors.list)","status":"skipped","testResultsByEnv":{"default":"6da5494499af7f979c188dccf5ee8fd2"}}

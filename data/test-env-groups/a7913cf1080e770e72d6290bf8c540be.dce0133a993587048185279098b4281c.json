@@ -1,0 +1,1 @@
+{"id":"a7913cf1080e770e72d6290bf8c540be.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=ot_staff › /api/ambulance/trips (perm=ambulance.trips.list)","name":"/api/ambulance/trips (perm=ambulance.trips.list)","status":"skipped","testResultsByEnv":{"default":"2d042a852c2385d239d54a9803d2cd00"}}

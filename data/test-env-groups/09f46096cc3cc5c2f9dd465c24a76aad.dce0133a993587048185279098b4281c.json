@@ -1,0 +1,1 @@
+{"id":"09f46096cc3cc5c2f9dd465c24a76aad.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=audit_officer › /api/indent/requisitions (perm=indent.list)","name":"/api/indent/requisitions (perm=indent.list)","status":"skipped","testResultsByEnv":{"default":"26ebffa322f95580cce344c2fdb82b3b"}}

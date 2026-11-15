@@ -1,0 +1,1 @@
+{"id":"c10f38644146c8494321404ab66489f4.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=radiology_tech › /api/procurement/vendors (perm=procurement.vendors.list)","name":"/api/procurement/vendors (perm=procurement.vendors.list)","status":"skipped","testResultsByEnv":{"default":"db20d0f133e7a240ce1a59792e69a4e8"}}

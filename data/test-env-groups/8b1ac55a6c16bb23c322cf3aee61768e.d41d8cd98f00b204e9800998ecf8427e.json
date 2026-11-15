@@ -1,0 +1,1 @@
+{"id":"8b1ac55a6c16bb23c322cf3aee61768e.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/security/intelligence/intel-status.test.ts#postureState > dates a posture older than two hours as stale","name":"dates a posture older than two hours as stale","status":"passed","testResultsByEnv":{"default":"2f25810ac1f11e97d4295d9b131a0f8c"}}

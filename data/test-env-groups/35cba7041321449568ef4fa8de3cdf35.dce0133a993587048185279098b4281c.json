@@ -1,0 +1,1 @@
+{"id":"35cba7041321449568ef4fa8de3cdf35.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=super_admin › /api/patients (perm=patients.list)","name":"/api/patients (perm=patients.list)","status":"passed","testResultsByEnv":{"default":"7b47e6516c74caebe12de3a955baf0b2"}}

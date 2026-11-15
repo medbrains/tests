@@ -1,0 +1,1 @@
+{"id":"c368e2bbc51f874602bc48090caa80c4.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=insurance_officer › /api/patients (perm=patients.list)","name":"/api/patients (perm=patients.list)","status":"skipped","testResultsByEnv":{"default":"26d9ec8f38a421c7a2c90a6136f30155"}}

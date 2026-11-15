@@ -1,0 +1,1 @@
+{"id":"dd59e3144e5b0933d1a29548a2b49415.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/Clinical/BloodPressureInput.test.tsx#validateBloodPressure > holds systolic to 50–300 and diastolic to 20–200, inclusive","name":"holds systolic to 50–300 and diastolic to 20–200, inclusive","status":"passed","testResultsByEnv":{"default":"23e2bdb1cfc03ec74dc04270fac16b51"}}

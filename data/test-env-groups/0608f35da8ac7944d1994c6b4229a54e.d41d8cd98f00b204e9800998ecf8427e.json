@@ -1,0 +1,1 @@
+{"id":"0608f35da8ac7944d1994c6b4229a54e.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/queue-status-model.test.ts#queueWaitLabel > switches to hours rather than showing three digits of minutes","name":"switches to hours rather than showing three digits of minutes","status":"passed","testResultsByEnv":{"default":"f4c87611fa7692e6ff687f66ad47a48e"}}

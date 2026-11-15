@@ -1,0 +1,1 @@
+{"id":"824bfc5802034779238b86b220d68836.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=doctor › /api/procurement/vendors (perm=procurement.vendors.list)","name":"/api/procurement/vendors (perm=procurement.vendors.list)","status":"passed","testResultsByEnv":{"default":"026d6eba8fc04868e853a4ed65142bf4"}}

@@ -1,0 +1,1 @@
+{"id":"57345f66d68142f3f0fa7eb2ecaa6c06.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/pharmacy/pos-checkout.test.ts#posTotals > uses each drug's own GST rate, never a flat 5%","name":"uses each drug's own GST rate, never a flat 5%","status":"passed","testResultsByEnv":{"default":"bfcfcaa0de68035cb59373ab045d7fb0"}}

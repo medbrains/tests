@@ -1,0 +1,1 @@
+{"id":"81fa7669d357af476dad16481959d0e5.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=nurse › /api/ot/bookings (perm=ot.bookings.list)","name":"/api/ot/bookings (perm=ot.bookings.list)","status":"passed","testResultsByEnv":{"default":"0bb2c10e7f2a2ba2422ee37eef60706d"}}

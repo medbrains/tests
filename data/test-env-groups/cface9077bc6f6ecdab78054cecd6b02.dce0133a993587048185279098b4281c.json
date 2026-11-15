@@ -1,0 +1,1 @@
+{"id":"cface9077bc6f6ecdab78054cecd6b02.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=doctor › /api/radiology/orders (perm=radiology.orders.list)","name":"/api/radiology/orders (perm=radiology.orders.list)","status":"passed","testResultsByEnv":{"default":"4838577df678adf1a5b39f72c46e6647"}}

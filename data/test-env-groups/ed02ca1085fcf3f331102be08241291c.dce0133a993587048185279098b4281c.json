@@ -1,0 +1,1 @@
+{"id":"ed02ca1085fcf3f331102be08241291c.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=nurse › /api/front-office/visitors (perm=front_office.visitors.list)","name":"/api/front-office/visitors (perm=front_office.visitors.list)","status":"passed","testResultsByEnv":{"default":"78e112b1330fc31eb8e4467cc650a5ad"}}

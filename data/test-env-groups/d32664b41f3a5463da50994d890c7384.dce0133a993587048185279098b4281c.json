@@ -1,0 +1,1 @@
+{"id":"d32664b41f3a5463da50994d890c7384.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=store_keeper › /api/ambulance/trips (perm=ambulance.trips.list)","name":"/api/ambulance/trips (perm=ambulance.trips.list)","status":"skipped","testResultsByEnv":{"default":"34eb82c43345cf25ed9b463a32370c11"}}

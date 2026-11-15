@@ -1,0 +1,1 @@
+{"id":"c2f5c662513b9e8ea5f6373d6704bb93.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/opd/vitals-thresholds.test.ts#bloodPressureSeverity > says nothing about a patient whose pressure was never taken","name":"says nothing about a patient whose pressure was never taken","status":"passed","testResultsByEnv":{"default":"6d208f795c615ade3c1af8526b3fd6b4"}}

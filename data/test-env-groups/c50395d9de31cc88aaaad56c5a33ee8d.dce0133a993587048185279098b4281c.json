@@ -1,0 +1,1 @@
+{"id":"c50395d9de31cc88aaaad56c5a33ee8d.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=biomed_engineer › /api/front-office/visitors (perm=front_office.visitors.list)","name":"/api/front-office/visitors (perm=front_office.visitors.list)","status":"skipped","testResultsByEnv":{"default":"6faf1e391bdea613b055532651401e2e"}}

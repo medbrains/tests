@@ -1,0 +1,1 @@
+{"id":"aa40f52d79f29ac6c1134817fda786ff.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=hr_officer › /api/diet/orders (perm=diet.orders.list)","name":"/api/diet/orders (perm=diet.orders.list)","status":"skipped","testResultsByEnv":{"default":"0cc53af75371c9865b3952b29a0792e5"}}

@@ -1,0 +1,1 @@
+{"id":"1be969ec8a202b67a1f2c860dadfa503.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=pharmacist › /api/lab/orders (perm=lab.orders.list)","name":"/api/lab/orders (perm=lab.orders.list)","status":"passed","testResultsByEnv":{"default":"b88e93c9bff21849b9a9102dc8c6e36b"}}

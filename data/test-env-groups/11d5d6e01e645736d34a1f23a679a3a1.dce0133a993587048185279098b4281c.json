@@ -1,0 +1,1 @@
+{"id":"11d5d6e01e645736d34a1f23a679a3a1.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=pharmacist › /api/ot/bookings (perm=ot.bookings.list)","name":"/api/ot/bookings (perm=ot.bookings.list)","status":"passed","testResultsByEnv":{"default":"34b017c863a442ce439f1942f1457848"}}

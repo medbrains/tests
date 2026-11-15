@@ -1,0 +1,1 @@
+{"id":"dacaaaa213df40ec16ac997ea8b961ba.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=security_guard › /api/mrd/records (perm=mrd.records.list)","name":"/api/mrd/records (perm=mrd.records.list)","status":"skipped","testResultsByEnv":{"default":"8e6e36687fcfa9d0d8720a1e014364d0"}}

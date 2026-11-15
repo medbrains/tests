@@ -1,0 +1,1 @@
+{"id":"6c0d1e09d0c5d6bdc0073ca55feead22.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=store_keeper › /api/pharmacy/orders (perm=pharmacy.prescriptions.list)","name":"/api/pharmacy/orders (perm=pharmacy.prescriptions.list)","status":"skipped","testResultsByEnv":{"default":"40e8506c37f1c05b2d6520876d530d0d"}}

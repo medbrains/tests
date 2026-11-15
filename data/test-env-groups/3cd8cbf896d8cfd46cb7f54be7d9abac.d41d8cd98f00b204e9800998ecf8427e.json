@@ -1,0 +1,1 @@
+{"id":"3cd8cbf896d8cfd46cb7f54be7d9abac.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/hooks/useResourcePerm.test.ts#useResourcePerm > returns deny-all when row is undefined","name":"returns deny-all when row is undefined","status":"passed","testResultsByEnv":{"default":"5db8fddaf3cca0bc67332ed5cd2d4466"}}

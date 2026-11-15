@@ -1,0 +1,1 @@
+{"id":"f6df2f0741673f15baafe8aa481c5588.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::linkage_discharge_test::discharge_releases_the_bed_and_queues_one_summary_and_one_mrd_request","name":"discharge_releases_the_bed_and_queues_one_summary_and_one_mrd_request","status":"passed","testResultsByEnv":{"default":"1aae6c15c11f0f2ac9e21b809f65b35b"}}

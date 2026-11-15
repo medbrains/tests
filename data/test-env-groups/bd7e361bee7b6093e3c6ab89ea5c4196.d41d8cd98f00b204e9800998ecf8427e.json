@@ -1,0 +1,1 @@
+{"id":"bd7e361bee7b6093e3c6ab89ea5c4196.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/hooks/usePatientScope.test.tsx#usePatientScope > carries the visit, but only alongside its patient and only as a UUID","name":"carries the visit, but only alongside its patient and only as a UUID","status":"passed","testResultsByEnv":{"default":"1dd4a10037ea8300d86d1a3a31d1dfa6"}}

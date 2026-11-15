@@ -1,0 +1,1 @@
+{"id":"fb961021fcd02eb271a1d9bac4094d77.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=ambulance_driver › /api/ot/bookings (perm=ot.bookings.list)","name":"/api/ot/bookings (perm=ot.bookings.list)","status":"skipped","testResultsByEnv":{"default":"1d66997868ac52984ab9bcb2e26fa324"}}

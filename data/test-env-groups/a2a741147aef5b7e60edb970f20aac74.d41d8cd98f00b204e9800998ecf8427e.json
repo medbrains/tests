@@ -1,0 +1,1 @@
+{"id":"a2a741147aef5b7e60edb970f20aac74.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/opd/vitals-thresholds.test.ts#bloodPressureSeverity > flags a high diastolic even when systolic looks fine","name":"flags a high diastolic even when systolic looks fine","status":"passed","testResultsByEnv":{"default":"91002849b679e1a9f214a7cb9b421a6d"}}

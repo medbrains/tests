@@ -1,0 +1,1 @@
+{"id":"b6691843b79acf115429eacf1815c24a.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/admin/flows/metro.test.ts#metro geometry > wraps a name to two lines but never splits its longest word","name":"wraps a name to two lines but never splits its longest word","status":"passed","testResultsByEnv":{"default":"253c5cc5411de825f577e667a16d8abe"}}

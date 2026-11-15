@@ -1,0 +1,1 @@
+{"id":"3d99f8184f0a0e4d72532ba225e4f7ee.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server-core::middleware::authorization::outcome_tests::our_own_misconfiguration_denies_rather_than_reporting_an_outage","name":"our_own_misconfiguration_denies_rather_than_reporting_an_outage","status":"passed","testResultsByEnv":{"default":"ea3c803256b7ee952eb36deba15161c4"}}

@@ -1,0 +1,1 @@
+{"id":"d7ff7766d75746315d302ee2f1f34c75.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=insurance_officer › /api/bme/equipment (perm=bme.equipment.list)","name":"/api/bme/equipment (perm=bme.equipment.list)","status":"skipped","testResultsByEnv":{"default":"09dcc6e20250f4ab0d92f7157713821e"}}

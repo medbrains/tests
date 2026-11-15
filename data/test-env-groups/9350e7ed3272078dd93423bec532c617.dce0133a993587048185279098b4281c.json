@@ -1,0 +1,1 @@
+{"id":"9350e7ed3272078dd93423bec532c617.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=billing_clerk › /api/ambulance/trips (perm=ambulance.trips.list)","name":"/api/ambulance/trips (perm=ambulance.trips.list)","status":"passed","testResultsByEnv":{"default":"f29acbcc0d88d5c8d1d2a7022ed199cc"}}

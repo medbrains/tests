@@ -1,0 +1,1 @@
+{"id":"6d197b4ec71914a3b12286168af2f4ba.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=security_guard › /api/camp/camps (perm=camp.list)","name":"/api/camp/camps (perm=camp.list)","status":"skipped","testResultsByEnv":{"default":"20b4ad65d28848cd9dee807d5feb4848"}}

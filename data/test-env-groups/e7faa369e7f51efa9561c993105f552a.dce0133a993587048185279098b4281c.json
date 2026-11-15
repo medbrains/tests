@@ -1,0 +1,1 @@
+{"id":"e7faa369e7f51efa9561c993105f552a.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=insurance_officer › /api/ot/bookings (perm=ot.bookings.list)","name":"/api/ot/bookings (perm=ot.bookings.list)","status":"skipped","testResultsByEnv":{"default":"a5c63f508d8a68927305270cdda78ade"}}

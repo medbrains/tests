@@ -1,0 +1,1 @@
+{"id":"489b14bc542bae5d0c9f3b833ad5d493.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=camp_coordinator › /api/diet/orders (perm=diet.orders.list)","name":"/api/diet/orders (perm=diet.orders.list)","status":"skipped","testResultsByEnv":{"default":"b7e1f6874861d93fe025933db270871d"}}

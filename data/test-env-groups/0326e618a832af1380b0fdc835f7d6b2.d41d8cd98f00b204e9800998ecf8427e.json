@@ -1,0 +1,1 @@
+{"id":"0326e618a832af1380b0fdc835f7d6b2.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/pharmacy/pos-checkout.test.ts#discount approval and MRP > holds any discount when the limit is unknown, never assumes one","name":"holds any discount when the limit is unknown, never assumes one","status":"passed","testResultsByEnv":{"default":"55d56d7fbfb8c649f5f6f456987eca52"}}

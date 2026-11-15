@@ -1,0 +1,1 @@
+{"id":"cc986a46bc459041f9d5f38fa81912d9.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-os-setup::bin/medbrains-os-setup::first_admin::tests::a_totp_status_becomes_a_secret_and_a_qr_code","name":"a_totp_status_becomes_a_secret_and_a_qr_code","status":"passed","testResultsByEnv":{"default":"2898f73a6d52f897138d9e6ebd8b64e2"}}

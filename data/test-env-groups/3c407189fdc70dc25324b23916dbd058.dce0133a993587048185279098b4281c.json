@@ -1,0 +1,1 @@
+{"id":"3c407189fdc70dc25324b23916dbd058.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=receptionist › /api/ambulance/trips (perm=ambulance.trips.list)","name":"/api/ambulance/trips (perm=ambulance.trips.list)","status":"passed","testResultsByEnv":{"default":"8daa7216fa45b028d935cebc9f839817"}}

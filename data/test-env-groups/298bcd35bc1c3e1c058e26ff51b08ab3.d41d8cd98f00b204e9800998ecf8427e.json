@@ -1,0 +1,1 @@
+{"id":"298bcd35bc1c3e1c058e26ff51b08ab3.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::pharmacy_storefront_p2_refunds_test::every_new_endpoint_refuses_a_user_without_its_permission","name":"every_new_endpoint_refuses_a_user_without_its_permission","status":"passed","testResultsByEnv":{"default":"4e5b31671c88b20e20803afadcc79ef0"}}

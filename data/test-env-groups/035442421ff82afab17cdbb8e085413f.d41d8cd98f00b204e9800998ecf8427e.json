@@ -1,0 +1,1 @@
+{"id":"035442421ff82afab17cdbb8e085413f.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/data-table-virtualization.test.ts#resolveMeasuredRowHeight > widens to the rows actually on screen when they wrap","name":"widens to the rows actually on screen when they wrap","status":"passed","testResultsByEnv":{"default":"11a9f71a1cae0d46ccc1e3ab4b98b475"}}

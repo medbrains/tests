@@ -1,0 +1,1 @@
+{"id":"99002950c2cf16b4251d1e7326359ae2.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=camp_coordinator › /api/mrd/records (perm=mrd.records.list)","name":"/api/mrd/records (perm=mrd.records.list)","status":"skipped","testResultsByEnv":{"default":"2eba17fa0973d0aed79af0daa4af3702"}}

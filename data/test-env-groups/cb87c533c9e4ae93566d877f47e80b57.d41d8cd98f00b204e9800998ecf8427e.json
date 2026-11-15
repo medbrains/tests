@@ -1,0 +1,1 @@
+{"id":"cb87c533c9e4ae93566d877f47e80b57.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/billing/accounting-tabs.test.tsx#JournalEntriesTab > offers no ledger actions without billing.journal.post","name":"offers no ledger actions without billing.journal.post","status":"passed","testResultsByEnv":{"default":"20a1da6e1be8af7c7cc33e3a5e61df9f"}}

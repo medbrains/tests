@@ -1,0 +1,1 @@
+{"id":"38170361c01304e2875448c44d0e9b08.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=receptionist › /api/cssd/loads (perm=cssd.sterilization.list)","name":"/api/cssd/loads (perm=cssd.sterilization.list)","status":"passed","testResultsByEnv":{"default":"f27f7f0637e2a1fa9b72f7e29e0e220b"}}

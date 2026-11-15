@@ -1,0 +1,1 @@
+{"id":"b2b7c7d0c119c2cc1c92ad02a988383c.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=radiology_tech › /api/lab/orders (perm=lab.orders.list)","name":"/api/lab/orders (perm=lab.orders.list)","status":"skipped","testResultsByEnv":{"default":"0b25077406173ffbc484673cb3b83673"}}

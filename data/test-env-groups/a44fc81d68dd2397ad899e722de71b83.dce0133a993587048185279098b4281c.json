@@ -1,0 +1,1 @@
+{"id":"a44fc81d68dd2397ad899e722de71b83.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=ambulance_driver › /api/bme/equipment (perm=bme.equipment.list)","name":"/api/bme/equipment (perm=bme.equipment.list)","status":"skipped","testResultsByEnv":{"default":"c624516606cc6b1060b8c88b33c92617"}}

@@ -1,0 +1,1 @@
+{"id":"0337f06a32fe14581d2edd5a3cc2e0c1.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=radiology_tech › /api/front-office/visitors (perm=front_office.visitors.list)","name":"/api/front-office/visitors (perm=front_office.visitors.list)","status":"skipped","testResultsByEnv":{"default":"6a546875fcf0be739ddac653bbffb869"}}

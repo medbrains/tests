@@ -1,0 +1,1 @@
+{"id":"051462f6e75ad8faab557da6d2f20f0a.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=canteen_staff › /api/insurance/prior-auths (perm=insurance.prior_auth.list)","name":"/api/insurance/prior-auths (perm=insurance.prior_auth.list)","status":"skipped","testResultsByEnv":{"default":"197763cb45f17f27d01104bbe70d97ee"}}

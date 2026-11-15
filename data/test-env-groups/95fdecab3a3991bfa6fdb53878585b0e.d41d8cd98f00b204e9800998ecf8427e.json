@@ -1,0 +1,1 @@
+{"id":"95fdecab3a3991bfa6fdb53878585b0e.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/payments/CardTerminalPanel.test.tsx#CardTerminalPanel > does not call money on the bill that finance is holding","name":"does not call money on the bill that finance is holding","status":"passed","testResultsByEnv":{"default":"4a90a09e391af71ad62492bca08eda60"}}

@@ -1,0 +1,1 @@
+{"id":"9085a897a0a58819205d7c8c3b1f7dc7.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=canteen_staff › /api/ambulance/trips (perm=ambulance.trips.list)","name":"/api/ambulance/trips (perm=ambulance.trips.list)","status":"skipped","testResultsByEnv":{"default":"948122036354dd18e4fecd4cbd4e9851"}}

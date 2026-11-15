@@ -1,0 +1,1 @@
+{"id":"6c6855d5d4c7da5290b278119298373d.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/lib/advisoryCheck.test.ts#nextCheckState > marks a failure as unavailable rather than clear","name":"marks a failure as unavailable rather than clear","status":"passed","testResultsByEnv":{"default":"e6205ec60bd608ee24959c28af78af9a"}}

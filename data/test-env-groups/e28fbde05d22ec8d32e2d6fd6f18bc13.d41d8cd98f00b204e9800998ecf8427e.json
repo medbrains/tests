@@ -1,0 +1,1 @@
+{"id":"e28fbde05d22ec8d32e2d6fd6f18bc13.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/counter-display/display-machine.test.ts#customer display state machine > backs off reconnects up to 30 seconds","name":"backs off reconnects up to 30 seconds","status":"passed","testResultsByEnv":{"default":"ace79651db89fe972a70550db5cc27cd"}}

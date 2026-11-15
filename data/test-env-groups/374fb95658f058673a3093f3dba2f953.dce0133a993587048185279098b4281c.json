@@ -1,0 +1,1 @@
+{"id":"374fb95658f058673a3093f3dba2f953.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=camp_coordinator › /api/camp/camps (perm=camp.list)","name":"/api/camp/camps (perm=camp.list)","status":"skipped","testResultsByEnv":{"default":"3c370311911a0d4fa2418f49b8d2ff13"}}

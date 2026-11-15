@@ -1,0 +1,1 @@
+{"id":"dfd54e2b5d94d2e35c0a68d022940cc3.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=dietitian › /api/pharmacy/orders (perm=pharmacy.prescriptions.list)","name":"/api/pharmacy/orders (perm=pharmacy.prescriptions.list)","status":"skipped","testResultsByEnv":{"default":"f88e0dfe932f3dc0ef7a760a89d950c3"}}

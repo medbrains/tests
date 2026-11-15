@@ -1,0 +1,1 @@
+{"id":"65e4900c470a92ba527ccf2bca4ada28.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=insurance_officer › /api/mrd/records (perm=mrd.records.list)","name":"/api/mrd/records (perm=mrd.records.list)","status":"skipped","testResultsByEnv":{"default":"73337cc947eb0ed7e72412edcb72b156"}}

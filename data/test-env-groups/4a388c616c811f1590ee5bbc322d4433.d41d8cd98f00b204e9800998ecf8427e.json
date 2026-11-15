@@ -1,0 +1,1 @@
+{"id":"4a388c616c811f1590ee5bbc322d4433.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/health-intel/labels.test.ts#health intelligence labels > treats a stopped or never-run check as trouble, not as quiet","name":"treats a stopped or never-run check as trouble, not as quiet","status":"passed","testResultsByEnv":{"default":"7202ea80f5c9bddd1d1752b88dddefaa"}}

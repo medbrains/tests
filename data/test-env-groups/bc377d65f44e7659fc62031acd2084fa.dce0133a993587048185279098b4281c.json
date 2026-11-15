@@ -1,0 +1,1 @@
+{"id":"bc377d65f44e7659fc62031acd2084fa.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=mrd_officer › /api/hr/employees (perm=hr.employees.list)","name":"/api/hr/employees (perm=hr.employees.list)","status":"skipped","testResultsByEnv":{"default":"6057c9f45b50eea682c539f412efcedd"}}

@@ -1,0 +1,1 @@
+{"id":"ee60b9d09d265902234ed612eebf3f9b.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=insurance_officer › /api/indent/requisitions (perm=indent.list)","name":"/api/indent/requisitions (perm=indent.list)","status":"skipped","testResultsByEnv":{"default":"fef2fd3b8092dfe3008ba7d1fce80e85"}}

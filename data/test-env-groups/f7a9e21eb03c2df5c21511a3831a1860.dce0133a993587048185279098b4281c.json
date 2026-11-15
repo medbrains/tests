@@ -1,0 +1,1 @@
+{"id":"f7a9e21eb03c2df5c21511a3831a1860.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=quality_officer › /api/patients (perm=patients.list)","name":"/api/patients (perm=patients.list)","status":"skipped","testResultsByEnv":{"default":"63cdd03389310705f0f9303e8c98d85f"}}

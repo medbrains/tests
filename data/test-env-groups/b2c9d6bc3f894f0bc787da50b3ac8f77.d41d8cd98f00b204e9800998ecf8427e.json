@@ -1,0 +1,1 @@
+{"id":"b2c9d6bc3f894f0bc787da50b3ac8f77.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-nhcx-callback::parse_claim::tests::a_payment_notice_reads_utr_and_per_claim_approved_amount_and_tds","name":"a_payment_notice_reads_utr_and_per_claim_approved_amount_and_tds","status":"passed","testResultsByEnv":{"default":"4568265dcbf34f27d0316c90be1772b8"}}

@@ -1,0 +1,1 @@
+{"id":"11d9e412ec3eb56b52e151fe16479eed.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=biomed_engineer › /api/ot/bookings (perm=ot.bookings.list)","name":"/api/ot/bookings (perm=ot.bookings.list)","status":"skipped","testResultsByEnv":{"default":"62faa7f287d00f1116cea9ca8465d12c"}}

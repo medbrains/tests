@@ -1,0 +1,1 @@
+{"id":"2318858b27cca2b9133f131758439bb9.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=doctor › /api/bme/equipment (perm=bme.equipment.list)","name":"/api/bme/equipment (perm=bme.equipment.list)","status":"passed","testResultsByEnv":{"default":"8a24f66f700bbefa031a1b7b4a269ade"}}

@@ -1,0 +1,1 @@
+{"id":"5a20acc57b5b1e38bfb28e5c73c8ec9c.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=quality_officer › /api/lab/orders (perm=lab.orders.list)","name":"/api/lab/orders (perm=lab.orders.list)","status":"skipped","testResultsByEnv":{"default":"8557115ad91f131669ddba3d8f86f21e"}}

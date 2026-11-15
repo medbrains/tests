@@ -1,0 +1,1 @@
+{"id":"504cb88f84bdfb625fda06d396406ae1.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=billing_clerk › /api/hr/employees (perm=hr.employees.list)","name":"/api/hr/employees (perm=hr.employees.list)","status":"passed","testResultsByEnv":{"default":"bbb3f60df4476e408829f09f18a60625"}}

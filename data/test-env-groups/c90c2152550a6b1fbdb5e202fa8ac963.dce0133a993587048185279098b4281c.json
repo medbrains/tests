@@ -1,0 +1,1 @@
+{"id":"c90c2152550a6b1fbdb5e202fa8ac963.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=biomed_engineer › /api/diet/orders (perm=diet.orders.list)","name":"/api/diet/orders (perm=diet.orders.list)","status":"skipped","testResultsByEnv":{"default":"cd02605aa53c127226b1dc3074c301ca"}}

@@ -1,0 +1,1 @@
+{"id":"512652b331ffda1b49c1c221a3137dc4.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=front_office_staff › /api/hr/employees (perm=hr.employees.list)","name":"/api/hr/employees (perm=hr.employees.list)","status":"skipped","testResultsByEnv":{"default":"f159208aea7994be0440919105af610e"}}

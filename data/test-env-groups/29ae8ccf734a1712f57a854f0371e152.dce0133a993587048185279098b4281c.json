@@ -1,0 +1,1 @@
+{"id":"29ae8ccf734a1712f57a854f0371e152.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=lab_technician › /api/opd/encounters (perm=opd.queue.list)","name":"/api/opd/encounters (perm=opd.queue.list)","status":"skipped","testResultsByEnv":{"default":"ed31cca41d4aa47c50ba57f0385c85b0"}}

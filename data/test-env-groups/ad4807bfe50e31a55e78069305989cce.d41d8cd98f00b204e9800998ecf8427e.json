@@ -1,0 +1,1 @@
+{"id":"ad4807bfe50e31a55e78069305989cce.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::claim_settlement_backfill_test::staff_without_the_settlement_permissions_are_refused","name":"staff_without_the_settlement_permissions_are_refused","status":"passed","testResultsByEnv":{"default":"9010c68ec78ad41344d6abe94ababa29"}}

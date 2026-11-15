@@ -1,0 +1,1 @@
+{"id":"def4df16308a6153427527c3a1f61f4e.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/admin/kernel/status.test.ts#audit chain status > never reads a missing verdict as healthy","name":"never reads a missing verdict as healthy","status":"passed","testResultsByEnv":{"default":"e4a75980555ff880d9637e9de34a647d"}}

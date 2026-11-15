@@ -1,0 +1,1 @@
+{"id":"314b0a898319bf8add719e7ba86c3b2b.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=biomed_engineer › /api/pharmacy/orders (perm=pharmacy.prescriptions.list)","name":"/api/pharmacy/orders (perm=pharmacy.prescriptions.list)","status":"skipped","testResultsByEnv":{"default":"2a3474d964685685b76454b7ea1ba1bc"}}

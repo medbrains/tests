@@ -1,0 +1,1 @@
+{"id":"ddd0d31faddfa67c1733a22a77a9aeeb.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=hospital_admin › /api/billing/invoices (perm=billing.invoices.list)","name":"/api/billing/invoices (perm=billing.invoices.list)","status":"passed","testResultsByEnv":{"default":"522be6aaae631802f740957f08f2b5b5"}}

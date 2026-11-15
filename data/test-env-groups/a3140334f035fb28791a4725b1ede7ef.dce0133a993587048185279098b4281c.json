@@ -1,0 +1,1 @@
+{"id":"a3140334f035fb28791a4725b1ede7ef.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=dietitian › /api/ot/bookings (perm=ot.bookings.list)","name":"/api/ot/bookings (perm=ot.bookings.list)","status":"skipped","testResultsByEnv":{"default":"a2a0af67f28962f4df60f19eadc63475"}}

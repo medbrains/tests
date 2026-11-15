@@ -1,0 +1,1 @@
+{"id":"8e93ad62770a66e041a8d9a5a1b722e5.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=ambulance_driver › /api/hr/employees (perm=hr.employees.list)","name":"/api/hr/employees (perm=hr.employees.list)","status":"skipped","testResultsByEnv":{"default":"92a65c4a7e6ac5412320633841fa2c37"}}

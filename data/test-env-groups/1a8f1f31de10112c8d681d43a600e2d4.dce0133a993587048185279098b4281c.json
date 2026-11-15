@@ -1,0 +1,1 @@
+{"id":"1a8f1f31de10112c8d681d43a600e2d4.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=procurement_officer › /api/opd/encounters (perm=opd.queue.list)","name":"/api/opd/encounters (perm=opd.queue.list)","status":"skipped","testResultsByEnv":{"default":"45cbb743b2aace85a8d6cfee3b5293d5"}}

@@ -1,0 +1,1 @@
+{"id":"a2ca5f4302ebf76b7927701b30e56ad7.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=billing_clerk › /api/indent/requisitions (perm=indent.list)","name":"/api/indent/requisitions (perm=indent.list)","status":"passed","testResultsByEnv":{"default":"8ca5c165d4d979c13eedcbeb96811e17"}}

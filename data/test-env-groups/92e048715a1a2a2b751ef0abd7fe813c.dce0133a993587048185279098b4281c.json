@@ -1,0 +1,1 @@
+{"id":"92e048715a1a2a2b751ef0abd7fe813c.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=infection_control_officer › /api/insurance/prior-auths (perm=insurance.prior_auth.list)","name":"/api/insurance/prior-auths (perm=insurance.prior_auth.list)","status":"skipped","testResultsByEnv":{"default":"c3027efa3a20a3b2f9dc7a41d891798a"}}

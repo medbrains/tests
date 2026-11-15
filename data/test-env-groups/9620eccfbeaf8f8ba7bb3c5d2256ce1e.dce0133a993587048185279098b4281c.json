@@ -1,0 +1,1 @@
+{"id":"9620eccfbeaf8f8ba7bb3c5d2256ce1e.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=ambulance_driver › /api/camp/camps (perm=camp.list)","name":"/api/camp/camps (perm=camp.list)","status":"skipped","testResultsByEnv":{"default":"22f5bcd6a1191acf93adbbb0e0f553d1"}}

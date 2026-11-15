@@ -1,0 +1,1 @@
+{"id":"e265253e940a18c74b1c7b3448ef9fef.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=doctor › /api/cssd/loads (perm=cssd.sterilization.list)","name":"/api/cssd/loads (perm=cssd.sterilization.list)","status":"passed","testResultsByEnv":{"default":"f0efae786104ca8c68f241ad6abff685"}}

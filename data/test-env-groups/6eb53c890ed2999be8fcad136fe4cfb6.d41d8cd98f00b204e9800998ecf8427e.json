@@ -1,0 +1,1 @@
+{"id":"6eb53c890ed2999be8fcad136fe4cfb6.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/hooks/useCanCancelOrder.test.ts#canCancelOrder > never offers cancel without the route permission","name":"never offers cancel without the route permission","status":"passed","testResultsByEnv":{"default":"d334ec9dd3ebcb405de90bf97526751a"}}

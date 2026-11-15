@@ -1,0 +1,1 @@
+{"id":"0790cc02d41c9dc9e45bbcd6485eea4a.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=super_admin › /api/procurement/vendors (perm=procurement.vendors.list)","name":"/api/procurement/vendors (perm=procurement.vendors.list)","status":"passed","testResultsByEnv":{"default":"6233edd73f6e37c75b9fdfd05e653cbe"}}

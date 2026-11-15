@@ -1,0 +1,1 @@
+{"id":"e0c72f8649ef3334999861ba892b722f.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=nurse › /api/cssd/loads (perm=cssd.sterilization.list)","name":"/api/cssd/loads (perm=cssd.sterilization.list)","status":"passed","testResultsByEnv":{"default":"00d3488e08d34a0d93b0bf794e674a11"}}

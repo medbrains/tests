@@ -1,0 +1,1 @@
+{"id":"04e5206a81d9959e35bf50eb483a9ec4.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=procurement_officer › /api/hr/employees (perm=hr.employees.list)","name":"/api/hr/employees (perm=hr.employees.list)","status":"skipped","testResultsByEnv":{"default":"b49d1fb0a9c57906d1f61f1d25197b45"}}

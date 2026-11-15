@@ -1,0 +1,1 @@
+{"id":"35f3cbedd6a7800699b5090ca1d18af8.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=super_admin › /api/diet/orders (perm=diet.orders.list)","name":"/api/diet/orders (perm=diet.orders.list)","status":"passed","testResultsByEnv":{"default":"a90fdb08698bda98f2308febb80e9c59"}}

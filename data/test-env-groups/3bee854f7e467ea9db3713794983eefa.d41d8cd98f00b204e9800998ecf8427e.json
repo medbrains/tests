@@ -1,0 +1,1 @@
+{"id":"3bee854f7e467ea9db3713794983eefa.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/hooks/useResourcePerm.test.ts#useResourcePerm > treats missing flags inside _perms as false (fail-closed)","name":"treats missing flags inside _perms as false (fail-closed)","status":"passed","testResultsByEnv":{"default":"95fe5b23ab8447f9d274d6ad2267ae42"}}

@@ -1,0 +1,1 @@
+{"id":"a8fc7990db5c8f90fed8575a53e47659.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=lab_technician › /api/blood-bank/donors (perm=blood_bank.donors.list)","name":"/api/blood-bank/donors (perm=blood_bank.donors.list)","status":"skipped","testResultsByEnv":{"default":"82289c9d2b523eeb19c1ddfcc86995fa"}}

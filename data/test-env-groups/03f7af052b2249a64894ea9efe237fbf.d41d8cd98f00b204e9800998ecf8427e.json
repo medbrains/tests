@@ -1,0 +1,1 @@
+{"id":"03f7af052b2249a64894ea9efe237fbf.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/Print/print-document-button.test.tsx#PrintDocumentButton > renders nothing when the permission is not held","name":"renders nothing when the permission is not held","status":"passed","testResultsByEnv":{"default":"d4e091b199ca18e70c3faefe11359453"}}

@@ -1,0 +1,1 @@
+{"id":"2bb070e7bb049047f7241ed4771e6f26.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/hooks/useResourcePerm.test.ts#useResourcePerm > returns deny-all when row is null","name":"returns deny-all when row is null","status":"passed","testResultsByEnv":{"default":"ab86c9c1bce500541bbbc20354e9cbc4"}}

@@ -1,0 +1,1 @@
+{"id":"d0c6b82d45beb9502acef4fd0452dcc8.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=insurance_officer › /api/hr/employees (perm=hr.employees.list)","name":"/api/hr/employees (perm=hr.employees.list)","status":"skipped","testResultsByEnv":{"default":"c35825ec462303628785d4c254a55175"}}

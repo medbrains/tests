@@ -1,0 +1,1 @@
+{"id":"6dbe55599e3fdd77c63664b89f390fce.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/lib/alert-sound-player.test.ts#alert sound player > resolves only after the sound has ended, so a board can speak afterwards","name":"resolves only after the sound has ended, so a board can speak afterwards","status":"passed","testResultsByEnv":{"default":"23e6907a47a76a2cb41883cf4cbf28f5"}}

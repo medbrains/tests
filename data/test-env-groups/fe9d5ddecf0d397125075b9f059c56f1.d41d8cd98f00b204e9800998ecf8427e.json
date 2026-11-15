@@ -1,0 +1,1 @@
+{"id":"fe9d5ddecf0d397125075b9f059c56f1.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::tenant_secret_names_test::saving_email_settings_refuses_names_outside_the_namespace","name":"saving_email_settings_refuses_names_outside_the_namespace","status":"passed","testResultsByEnv":{"default":"314e048f6c43e23f2fc4fa427a7fcf0e"}}

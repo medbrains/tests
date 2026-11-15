@@ -1,0 +1,1 @@
+{"id":"76e02c082c9bbf0c107dc31bab01fc08.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=dietitian › /api/bme/equipment (perm=bme.equipment.list)","name":"/api/bme/equipment (perm=bme.equipment.list)","status":"skipped","testResultsByEnv":{"default":"112dd1ea433844b2c6577c4a5b990dd2"}}

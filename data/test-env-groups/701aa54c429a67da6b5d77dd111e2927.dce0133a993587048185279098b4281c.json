@@ -1,0 +1,1 @@
+{"id":"701aa54c429a67da6b5d77dd111e2927.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=camp_coordinator › /api/radiology/orders (perm=radiology.orders.list)","name":"/api/radiology/orders (perm=radiology.orders.list)","status":"skipped","testResultsByEnv":{"default":"f694357038e68a1603b820fe4523cea5"}}

@@ -1,0 +1,1 @@
+{"id":"4cfcf738d12e64bc970ead32cee6d249.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=ambulance_driver › /api/front-office/visitors (perm=front_office.visitors.list)","name":"/api/front-office/visitors (perm=front_office.visitors.list)","status":"skipped","testResultsByEnv":{"default":"ff7c536f6f7b93bcc1989d1f19d0184b"}}

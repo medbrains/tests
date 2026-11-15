@@ -1,0 +1,1 @@
+{"id":"241d57aede09d6b9f201ecc32f2d9180.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=infection_control_officer › /api/ot/bookings (perm=ot.bookings.list)","name":"/api/ot/bookings (perm=ot.bookings.list)","status":"skipped","testResultsByEnv":{"default":"1536f4c1616f2d01cf480d97f56b57cf"}}

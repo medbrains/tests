@@ -1,0 +1,1 @@
+{"id":"91ec9f1c4dad97d40a62167af522980b.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=insurance_officer › /api/pharmacy/orders (perm=pharmacy.prescriptions.list)","name":"/api/pharmacy/orders (perm=pharmacy.prescriptions.list)","status":"skipped","testResultsByEnv":{"default":"d8ea90cc638150978c7f00b86d41ef28"}}

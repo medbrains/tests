@@ -1,0 +1,1 @@
+{"id":"da27526202097616db04368957a9db85.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=camp_coordinator › /api/opd/encounters (perm=opd.queue.list)","name":"/api/opd/encounters (perm=opd.queue.list)","status":"skipped","testResultsByEnv":{"default":"3da81b0b526c8bf16c08fd8bb8d55ba0"}}

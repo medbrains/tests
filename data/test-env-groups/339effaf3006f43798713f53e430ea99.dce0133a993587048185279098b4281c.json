@@ -1,0 +1,1 @@
+{"id":"339effaf3006f43798713f53e430ea99.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=front_office_staff › /api/camp/camps (perm=camp.list)","name":"/api/camp/camps (perm=camp.list)","status":"skipped","testResultsByEnv":{"default":"6209413fbf9a6f2cc92a94f0c42583c9"}}

@@ -1,0 +1,1 @@
+{"id":"3f6771cd84f5a86bc5be56116c8a19cb.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=receptionist › /api/patients (perm=patients.list)","name":"/api/patients (perm=patients.list)","status":"passed","testResultsByEnv":{"default":"88637a390a25907616b0a76aa0325380"}}

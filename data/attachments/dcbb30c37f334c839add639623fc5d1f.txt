@@ -1,0 +1,11 @@
+CRAWLED front_office_staff /dashboard []
+CRAWLED front_office_staff /approvals []
+CRAWLED front_office_staff /health-pulse []
+CRAWLED front_office_staff /token-board []
+CRAWLED front_office_staff /token-console []
+CRAWLED front_office_staff /front-office [{"page":"/front-office › Queue Metrics","what":"console error: %o\n\n%s\n\n%s\n TypeError: Cannot read properties of undefined (reading 'toFixed')\n    at Object.render (http://localhost:5173/src/pages/front-office/queue-metrics-"},{"page":"/front-office › Queue Metrics","what":"error screen (Screen unavailable)"}]
+CRAWLED front_office_staff /communications []
+CRAWLED front_office_staff /uhi-requests []
+CRAWLED front_office_staff /marketing []
+CRAWLED front_office_staff /admin/queues []
+ROBUSTNESS front_office_staff {"pages":10,"problems":[{"page":"/front-office › Queue Metrics","what":"console error: %o\n\n%s\n\n%s\n TypeError: Cannot read properties of undefined (reading 'toFixed')\n    at Object.render (http://localhost:5173/src/pages/front-office/queue-metrics-"},{"page":"/front-office › Queue Metrics","what":"error screen (Screen unavailable)"}]}

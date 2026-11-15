@@ -1,0 +1,1 @@
+{"id":"5e3724fab616ccb645576b81df97c382.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=store_keeper › /api/radiology/orders (perm=radiology.orders.list)","name":"/api/radiology/orders (perm=radiology.orders.list)","status":"skipped","testResultsByEnv":{"default":"dbb028f65054c085eee7cbb0c0e32e43"}}

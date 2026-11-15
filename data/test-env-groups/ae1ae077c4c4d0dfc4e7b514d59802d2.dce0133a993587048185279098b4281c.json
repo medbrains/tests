@@ -1,0 +1,1 @@
+{"id":"ae1ae077c4c4d0dfc4e7b514d59802d2.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=canteen_staff › /api/procurement/vendors (perm=procurement.vendors.list)","name":"/api/procurement/vendors (perm=procurement.vendors.list)","status":"skipped","testResultsByEnv":{"default":"d3b3adc367f4f2f513012e90bca1fa2b"}}

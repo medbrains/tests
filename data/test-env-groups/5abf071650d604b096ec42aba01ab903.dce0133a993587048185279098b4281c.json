@@ -1,0 +1,1 @@
+{"id":"5abf071650d604b096ec42aba01ab903.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=ambulance_driver › /api/indent/requisitions (perm=indent.list)","name":"/api/indent/requisitions (perm=indent.list)","status":"skipped","testResultsByEnv":{"default":"1da5266599bf2c1103f236b825625e1f"}}

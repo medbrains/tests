@@ -1,0 +1,1 @@
+{"id":"fea7b7ff8d7612a6a933a681ff20cd1d.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/Patient/abdm/fhirSections.test.ts#the HI types beyond notes, prescriptions and reports > ImmunizationRecord: vaccine, date, dose and lot","name":"ImmunizationRecord: vaccine, date, dose and lot","status":"passed","testResultsByEnv":{"default":"0f6c1ef0ccb3fce96751945c6e8a140f"}}

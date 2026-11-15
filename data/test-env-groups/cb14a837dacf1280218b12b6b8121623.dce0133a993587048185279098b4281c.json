@@ -1,0 +1,1 @@
+{"id":"cb14a837dacf1280218b12b6b8121623.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=procurement_officer › /api/front-office/visitors (perm=front_office.visitors.list)","name":"/api/front-office/visitors (perm=front_office.visitors.list)","status":"skipped","testResultsByEnv":{"default":"aa53a51d8aa4a3828be170da8fdc795d"}}

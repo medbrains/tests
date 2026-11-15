@@ -1,0 +1,1 @@
+{"id":"10b4b5c4d7fe96e09fc14878a1bc80c1.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=pharmacist › /api/opd/encounters (perm=opd.queue.list)","name":"/api/opd/encounters (perm=opd.queue.list)","status":"passed","testResultsByEnv":{"default":"a31c73cc30b0c0cef1dc78fcb9713435"}}

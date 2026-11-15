@@ -1,0 +1,1 @@
+{"id":"a421c545120e8ad9210803265fde1fa1.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=audit_officer › /api/camp/camps (perm=camp.list)","name":"/api/camp/camps (perm=camp.list)","status":"skipped","testResultsByEnv":{"default":"6ebac22f817cb71e2019eb46d8dc1db1"}}

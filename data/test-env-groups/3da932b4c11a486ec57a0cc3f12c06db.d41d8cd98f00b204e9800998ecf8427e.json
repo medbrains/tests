@@ -1,0 +1,1 @@
+{"id":"3da932b4c11a486ec57a0cc3f12c06db.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server-core::middleware::client_ip::tests::real_ip_is_used_only_from_a_proxy_and_without_a_chain","name":"real_ip_is_used_only_from_a_proxy_and_without_a_chain","status":"passed","testResultsByEnv":{"default":"6a89e6e55696ae8a483215ded8a502ad"}}

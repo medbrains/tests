@@ -1,0 +1,1 @@
+{"id":"2d6fa9c9f684126ef3e973fceb0344a1.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/lib/status-colors.test.ts#safety-critical statuses stay alarming > does not render any danger state as success","name":"does not render any danger state as success","status":"passed","testResultsByEnv":{"default":"26cfd1e771a28a985052415fac58be92"}}

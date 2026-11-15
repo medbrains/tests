@@ -1,0 +1,1 @@
+{"id":"1150755e4a8180d96503af91606308f6.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=hr_officer › /api/lab/orders (perm=lab.orders.list)","name":"/api/lab/orders (perm=lab.orders.list)","status":"skipped","testResultsByEnv":{"default":"6772179ac122ff5595792c45d9b085d5"}}

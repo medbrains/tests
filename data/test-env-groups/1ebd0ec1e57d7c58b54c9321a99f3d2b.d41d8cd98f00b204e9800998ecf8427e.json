@@ -1,0 +1,1 @@
+{"id":"1ebd0ec1e57d7c58b54c9321a99f3d2b.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::dental_treatment_test::a_procedure_is_billed_once_when_done_and_never_when_cancelled","name":"a_procedure_is_billed_once_when_done_and_never_when_cancelled","status":"passed","testResultsByEnv":{"default":"692805448ceed5f844ea6f087acf1acb"}}

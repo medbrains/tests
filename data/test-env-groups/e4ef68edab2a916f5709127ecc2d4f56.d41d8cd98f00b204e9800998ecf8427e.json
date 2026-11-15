@@ -1,0 +1,1 @@
+{"id":"e4ef68edab2a916f5709127ecc2d4f56.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/security/medbrains-access/MedbrainsAccessPage.test.tsx#MedBrains access screen > does not fetch grants without the view permission","name":"does not fetch grants without the view permission","status":"passed","testResultsByEnv":{"default":"ae2c2c7dcef59b3bfeba5fe1cdaf5b2c"}}

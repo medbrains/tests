@@ -1,0 +1,1 @@
+{"id":"c725fab909beb3e18199be037d8630f4.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-edge-app::bin/medbrains-edge::roster_fetch::tests::a_roster_with_no_peers_converts_to_one_that_admits_nobody","name":"a_roster_with_no_peers_converts_to_one_that_admits_nobody","status":"passed","testResultsByEnv":{"default":"1871e53ed9ee7a278d9336fc5a13371d"}}

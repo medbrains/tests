@@ -1,0 +1,1 @@
+{"id":"516a241c153212230892947d1f8e969e.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=procurement_officer › /api/insurance/prior-auths (perm=insurance.prior_auth.list)","name":"/api/insurance/prior-auths (perm=insurance.prior_auth.list)","status":"skipped","testResultsByEnv":{"default":"387489ab366910da835c3f1169730155"}}

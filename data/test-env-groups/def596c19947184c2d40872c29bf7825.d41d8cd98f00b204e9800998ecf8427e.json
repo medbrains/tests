@@ -1,0 +1,1 @@
+{"id":"def596c19947184c2d40872c29bf7825.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/forms/patientRegistration.form.test.ts#camp labels > truncates the date to its day, dropping the time component","name":"truncates the date to its day, dropping the time component","status":"passed","testResultsByEnv":{"default":"2373ecd844f80edbeb7cc62263c76339"}}

@@ -1,0 +1,1 @@
+{"id":"7a17b0663ab73bfa3456507b621d5646.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=nurse › /api/insurance/prior-auths (perm=insurance.prior_auth.list)","name":"/api/insurance/prior-auths (perm=insurance.prior_auth.list)","status":"passed","testResultsByEnv":{"default":"2c5cf05952d8c05ed20955b1b6d8918b"}}

@@ -1,0 +1,1 @@
+{"id":"ed6e3f0b5c29d3d12a15fc5c611d708d.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=pharmacist › /api/camp/camps (perm=camp.list)","name":"/api/camp/camps (perm=camp.list)","status":"passed","testResultsByEnv":{"default":"6c5d3599dfbbb21b856f9a6f8509b437"}}

@@ -1,0 +1,1 @@
+{"id":"123d79bd6e46fb6851cb4938522a8cfc.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=cssd_technician › /api/mrd/records (perm=mrd.records.list)","name":"/api/mrd/records (perm=mrd.records.list)","status":"skipped","testResultsByEnv":{"default":"e0d23230456e9940e6a42d6e45b5ee4f"}}

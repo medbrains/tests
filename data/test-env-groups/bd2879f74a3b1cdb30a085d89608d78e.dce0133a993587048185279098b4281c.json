@@ -1,0 +1,1 @@
+{"id":"bd2879f74a3b1cdb30a085d89608d78e.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=procurement_officer › /api/ambulance/trips (perm=ambulance.trips.list)","name":"/api/ambulance/trips (perm=ambulance.trips.list)","status":"skipped","testResultsByEnv":{"default":"6731191ab5801a21e35eed1b359b0f8b"}}

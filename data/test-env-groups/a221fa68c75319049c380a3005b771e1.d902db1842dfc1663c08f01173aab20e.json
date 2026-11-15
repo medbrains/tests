@@ -1,0 +1,1 @@
+{"id":"a221fa68c75319049c380a3005b771e1.d902db1842dfc1663c08f01173aab20e","fullName":"screens/nav-screens-by-role.spec.ts › Screens by role (129 gated, 1 ungated) › /admin/api-keys refuses a role lacking admin.api_keys.list","name":"/admin/api-keys refuses a role lacking admin.api_keys.list","status":"passed","testResultsByEnv":{"default":"cf1f1a48f73f36b157f97950f435eea4"}}

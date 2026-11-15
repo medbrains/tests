@@ -1,0 +1,1 @@
+{"id":"b663bed91f0ce4864ea70a1dec6a82b1.dce0133a993587048185279098b4281c","fullName":"rbac/role-blocking.spec.ts › RBAC role=blood_bank_tech › /api/ambulance/trips (perm=ambulance.trips.list)","name":"/api/ambulance/trips (perm=ambulance.trips.list)","status":"skipped","testResultsByEnv":{"default":"027d1cfe184a6dfa760e2e9f22c46882"}}

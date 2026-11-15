@@ -1,0 +1,1 @@
+{"id":"5ac828b036f154369c38c5d6532fd102.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::grant_scope_test::sso_memberships_survive_a_second_sign_in","name":"sso_memberships_survive_a_second_sign_in","status":"passed","testResultsByEnv":{"default":"ce76e18dc47acb2336f1a1f96c56a059"}}
