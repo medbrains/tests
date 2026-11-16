@@ -1,1 +1,1 @@
-{"id":"9f2b131227c2a33ce6c8e1bb3a14e62a.328f8a5af46cec4536613f648fe336ee","fullName":"crud/billing.spec.ts › Billing CRUD › 404 on unknown invoice","name":"404 on unknown invoice","status":"skipped","testResultsByEnv":{"default":"00a9b123600fdc3fb4a464b66c8549cd"}}
+{"id":"9f2b131227c2a33ce6c8e1bb3a14e62a.328f8a5af46cec4536613f648fe336ee","fullName":"crud/billing.spec.ts › Billing CRUD › 404 on unknown invoice","name":"404 on unknown invoice","status":"passed","testResultsByEnv":{"default":"d08063f25bb98a1a043d03eae0faee2e"}}

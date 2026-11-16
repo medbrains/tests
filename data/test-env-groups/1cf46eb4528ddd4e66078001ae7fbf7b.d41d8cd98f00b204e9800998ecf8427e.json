@@ -1,1 +1,1 @@
-{"id":"1cf46eb4528ddd4e66078001ae7fbf7b.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-authz-spicedb::spicedb_smoke::bypass_role_short_circuits","name":"bypass_role_short_circuits","status":"passed","testResultsByEnv":{"default":"3306c0b47e6048aba0e1f2dfc816f9ec"}}
+{"id":"1cf46eb4528ddd4e66078001ae7fbf7b.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-authz-spicedb::spicedb_smoke::bypass_role_short_circuits","name":"bypass_role_short_circuits","status":"passed","testResultsByEnv":{"default":"1efd6c4b22d77e2939ccf5708f918c52"}}

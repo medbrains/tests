@@ -1,1 +1,1 @@
-{"id":"a55ae282587ed6676949c9b9f989cddb.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-identity::sso_link::tests::only_a_kanidm_uuid_is_a_subject","name":"only_a_kanidm_uuid_is_a_subject","status":"passed","testResultsByEnv":{"default":"de78a7b06dee82cd1bfb786b5950a0e8"}}
+{"id":"a55ae282587ed6676949c9b9f989cddb.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-identity::sso_link::tests::only_a_kanidm_uuid_is_a_subject","name":"only_a_kanidm_uuid_is_a_subject","status":"passed","testResultsByEnv":{"default":"b955fa864a43f80db9aeb4934ebb4386"}}

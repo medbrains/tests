@@ -1,1 +1,1 @@
-{"id":"87afca9c12171a5fe95282a090bc0c86.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-edge::authz_cache_test::cache_hit_serves_locally","name":"cache_hit_serves_locally","status":"passed","testResultsByEnv":{"default":"cafed332c687a1246d14f8f85d598ee9"}}
+{"id":"87afca9c12171a5fe95282a090bc0c86.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-edge::authz_cache_test::cache_hit_serves_locally","name":"cache_hit_serves_locally","status":"passed","testResultsByEnv":{"default":"fb3dd0e05c10161896fd2cb1a5a4a398"}}

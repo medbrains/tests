@@ -1,1 +1,1 @@
-{"id":"9d603dd0518045bac359dce9ca8d6b29.39467281c0dcc09b0b013410cc0ae476","fullName":"analytics/ipd.spec.ts › IPD analytics › GET /api/ipd/bed-dashboard/beds","name":"GET /api/ipd/bed-dashboard/beds","status":"skipped","testResultsByEnv":{"default":"2b162cb4d83e2098d15df690081618c8"}}
+{"id":"9d603dd0518045bac359dce9ca8d6b29.39467281c0dcc09b0b013410cc0ae476","fullName":"analytics/ipd.spec.ts › IPD analytics › GET /api/ipd/bed-dashboard/beds","name":"GET /api/ipd/bed-dashboard/beds","status":"broken","testResultsByEnv":{"default":"f54a26e43f39edd1e347f4df9edac289"}}

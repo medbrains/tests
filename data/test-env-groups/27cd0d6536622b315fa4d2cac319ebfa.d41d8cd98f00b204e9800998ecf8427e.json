@@ -1,1 +1,1 @@
-{"id":"27cd0d6536622b315fa4d2cac319ebfa.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::query_budget_test::invoice_list_is_flat","name":"invoice_list_is_flat","status":"passed","testResultsByEnv":{"default":"c602977066a873947b88199a3d886da4"}}
+{"id":"27cd0d6536622b315fa4d2cac319ebfa.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::query_budget_test::invoice_list_is_flat","name":"invoice_list_is_flat","status":"passed","testResultsByEnv":{"default":"43fe96feccb4e6cac7b0bcc664eee414"}}
