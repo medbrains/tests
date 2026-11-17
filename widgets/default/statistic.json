@@ -1,1 +1,1 @@
-{"total":6876,"skipped":793,"retries":644,"failed":214,"broken":48,"passed":5821,"new":3,"retriesStatusChange":61}
+{"total":6876,"passed":5841,"skipped":776,"failed":212,"retries":630,"retriesStatusChange":51,"new":2,"broken":47,"flaky":5}

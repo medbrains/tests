@@ -1,1 +1,1 @@
-{"id":"d1c6d6492417177d99fe59615da6dbb2.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server-services::llm::tests::bedrock_defaults_to_mumbai","name":"bedrock_defaults_to_mumbai","status":"passed","testResultsByEnv":{"default":"ea3f9b2f52b17972b1071e0a70fd0595"}}
+{"id":"d1c6d6492417177d99fe59615da6dbb2.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server-services::llm::tests::bedrock_defaults_to_mumbai","name":"bedrock_defaults_to_mumbai","status":"passed","testResultsByEnv":{"default":"652da5d82c90fb7a8829aff3d98953c3"}}

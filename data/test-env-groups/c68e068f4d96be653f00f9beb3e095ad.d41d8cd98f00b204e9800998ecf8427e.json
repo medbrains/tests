@@ -1,1 +1,1 @@
-{"id":"c68e068f4d96be653f00f9beb3e095ad.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-outbox::integration::registry_routes_by_event_type","name":"registry_routes_by_event_type","status":"passed","testResultsByEnv":{"default":"da3e3f7088c70ea801e01e5cde49eed3"}}
+{"id":"c68e068f4d96be653f00f9beb3e095ad.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-outbox::integration::registry_routes_by_event_type","name":"registry_routes_by_event_type","status":"passed","testResultsByEnv":{"default":"dd4686ff022b06676fc5de470ab7eb04"}}
