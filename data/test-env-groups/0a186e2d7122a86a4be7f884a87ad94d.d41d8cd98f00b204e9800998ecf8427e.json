@@ -1,1 +1,0 @@
-{"id":"0a186e2d7122a86a4be7f884a87ad94d.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/hooks/useResourcePerm.test.ts#useResourcePerm > fails closed when _perms is missing (backend not opted-in yet)","name":"fails closed when _perms is missing (backend not opted-in yet)","status":"passed","testResultsByEnv":{"default":"aefec29b3ee94fa405c3462dd3366e1e"}}

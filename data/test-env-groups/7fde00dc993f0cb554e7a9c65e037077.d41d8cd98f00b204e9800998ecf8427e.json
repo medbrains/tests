@@ -1,1 +1,0 @@
-{"id":"7fde00dc993f0cb554e7a9c65e037077.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/clinical-kb/reports-tab.test.tsx#ReportsTab > does not ask for the worklist without the permission to read it","name":"does not ask for the worklist without the permission to read it","status":"passed","testResultsByEnv":{"default":"45bb3d0de37d8a16a1fbee3ca8e94a5c"}}

@@ -1,1 +1,0 @@
-{"id":"16cc4ea590dcfacf8fd8841711337eb7.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::nhcx_eligibility_preauth_test::staff_without_the_nhcx_permissions_are_refused","name":"staff_without_the_nhcx_permissions_are_refused","status":"passed","testResultsByEnv":{"default":"4b61cd932cf0774c4cc552a0a6d82af6"}}

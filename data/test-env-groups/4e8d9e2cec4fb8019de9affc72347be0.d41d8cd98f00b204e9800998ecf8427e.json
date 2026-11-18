@@ -1,1 +1,0 @@
-{"id":"4e8d9e2cec4fb8019de9affc72347be0.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/data-table-virtualization.test.ts#resolveDataTableVirtualWindow > uses a fallback viewport before the table has measured","name":"uses a fallback viewport before the table has measured","status":"passed","testResultsByEnv":{"default":"2ae1063c006b731c8665b859340a4c74"}}

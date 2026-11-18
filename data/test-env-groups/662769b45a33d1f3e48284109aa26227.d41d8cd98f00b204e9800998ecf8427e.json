@@ -1,1 +1,0 @@
-{"id":"662769b45a33d1f3e48284109aa26227.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::ipd_bed_transfer_test::a_transfer_moves_the_patient_and_sends_the_old_bed_to_housekeeping","name":"a_transfer_moves_the_patient_and_sends_the_old_bed_to_housekeeping","status":"passed","testResultsByEnv":{"default":"6385274a9deb62dd24631e96de1bdbb1"}}

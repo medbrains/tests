@@ -1,1 +1,0 @@
-{"id":"6374b60d0ccbfcbcbd52a73ddccc44c5.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-core::ai_redact::tests::a_restricted_class_never_reaches_the_model_unless_the_text_is_a_topic","name":"a_restricted_class_never_reaches_the_model_unless_the_text_is_a_topic","status":"passed","testResultsByEnv":{"default":"541abb6a53c73e325dd6a3585d02aed2"}}

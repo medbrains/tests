@@ -1,1 +1,0 @@
-{"id":"b82cf94912e0f1bd318b83375a8ef18b.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/lib/status-colors.test.ts#statusColor lookup > does not trim, so a padded status misses the map","name":"does not trim, so a padded status misses the map","status":"passed","testResultsByEnv":{"default":"aa7bcf58a0f4a2968022cbeb0f1037b0"}}

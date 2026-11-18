@@ -1,1 +1,0 @@
-{"id":"b30e19c830aaf78eb5b017270aa9d955.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::pharmacy_schedule_gate_test::a_drug_that_is_not_on_the_prescription_is_refused","name":"a_drug_that_is_not_on_the_prescription_is_refused","status":"passed","testResultsByEnv":{"default":"c146d0613686d0605b90184f1dc8a64d"}}

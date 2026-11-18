@@ -1,1 +1,0 @@
-{"id":"de70a9458b3a788d52b89ee3891e1c90.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/opd/vitals-thresholds.test.ts#bloodPressureSeverity > treats exactly 140 systolic as high, not normal","name":"treats exactly 140 systolic as high, not normal","status":"passed","testResultsByEnv":{"default":"db16dc9dd02a59f08c903ea6b2d951e6"}}

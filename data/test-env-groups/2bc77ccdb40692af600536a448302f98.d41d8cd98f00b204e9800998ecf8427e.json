@@ -1,1 +1,0 @@
-{"id":"2bc77ccdb40692af600536a448302f98.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-offline-core::revocation_cache::tests::a_revocation_evicted_from_memory_still_refuses_offline_sign_in","name":"a_revocation_evicted_from_memory_still_refuses_offline_sign_in","status":"passed","testResultsByEnv":{"default":"0bef73f34ad1747b6224a3e39757530e"}}

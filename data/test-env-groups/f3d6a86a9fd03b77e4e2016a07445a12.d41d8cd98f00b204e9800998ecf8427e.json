@@ -1,1 +1,0 @@
-{"id":"f3d6a86a9fd03b77e4e2016a07445a12.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/lib/radiology-exams.test.ts#examOrderDefaults > fills the body site and asks for contrast only when the exam uses it","name":"fills the body site and asks for contrast only when the exam uses it","status":"passed","testResultsByEnv":{"default":"1616c2d824ec27820515074246940fd1"}}

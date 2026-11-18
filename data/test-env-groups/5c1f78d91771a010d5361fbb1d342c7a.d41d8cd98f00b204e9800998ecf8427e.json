@@ -1,1 +1,0 @@
-{"id":"5c1f78d91771a010d5361fbb1d342c7a.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/lib/medication-timing-utils.test.ts#timingToHumanReadable > omits food timing when it is 'any', since that says nothing","name":"omits food timing when it is 'any', since that says nothing","status":"passed","testResultsByEnv":{"default":"f9e1a60f4bd63a3e183403eb14ff98f6"}}

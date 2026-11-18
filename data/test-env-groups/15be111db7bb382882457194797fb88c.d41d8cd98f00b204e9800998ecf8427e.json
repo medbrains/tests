@@ -1,1 +1,0 @@
-{"id":"15be111db7bb382882457194797fb88c.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/test/permission-store.test.ts#permission-store > getFieldAccess > defaults to 'edit' when no override is set","name":"defaults to 'edit' when no override is set","status":"passed","testResultsByEnv":{"default":"0332c6cb0ab07b7adb667e3ba535fc0f"}}

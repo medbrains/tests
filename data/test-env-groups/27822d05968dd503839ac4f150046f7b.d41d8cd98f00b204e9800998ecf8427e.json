@@ -1,1 +1,0 @@
-{"id":"27822d05968dd503839ac4f150046f7b.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/ipd/room-eligibility-notice.test.tsx#the room check before a bed is allocated > does not check before a patient and a bed are chosen","name":"does not check before a patient and a bed are chosen","status":"passed","testResultsByEnv":{"default":"88a7ae755a624657d391e1741bb3dd31"}}

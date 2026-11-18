@@ -1,1 +1,0 @@
-{"id":"2a7c8c75a22541cd15f7a9276885dafc.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::clinical_notes_test::an_unregistered_opd_visit_opens_no_case_sheet_under_the_lock","name":"an_unregistered_opd_visit_opens_no_case_sheet_under_the_lock","status":"passed","testResultsByEnv":{"default":"e88458153da7bd2427f88b71b2067d85"}}

@@ -1,1 +1,0 @@
-{"id":"ae9ce9b56ced0407237a955084290f5f.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/Emergency/er-triage-form.test.ts#toCreateTriageRequest > sends both BP numbers, ESI, and drops blank text","name":"sends both BP numbers, ESI, and drops blank text","status":"passed","testResultsByEnv":{"default":"4a7a59920576002d94752d615de25e47"}}

@@ -1,1 +1,0 @@
-{"id":"d784e62bed448ca5df2bd4b1c52ce23f.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::payments_p0_test::money_that_cannot_post_goes_to_finance","name":"money_that_cannot_post_goes_to_finance","status":"passed","testResultsByEnv":{"default":"ddc8e805da0f3ca9d53945b731d054f5"}}

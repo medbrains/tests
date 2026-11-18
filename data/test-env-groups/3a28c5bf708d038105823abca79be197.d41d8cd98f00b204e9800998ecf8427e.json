@@ -1,1 +1,0 @@
-{"id":"3a28c5bf708d038105823abca79be197.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/Clinical/case-sheet/AiDraftInsert.test.tsx#AiDraftInsert (#4895) > escapes AI text so it cannot inject markup into the note","name":"escapes AI text so it cannot inject markup into the note","status":"passed","testResultsByEnv":{"default":"9c549a2319a18e26e223fc6402049407"}}

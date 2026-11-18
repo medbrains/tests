@@ -1,1 +1,0 @@
-{"id":"81dced3431b5f4930b4b2362650373c4.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/test/permission-store.test.ts#permission-store > hasAnyPermission > bypass role short-circuits to true on empty input","name":"bypass role short-circuits to true on empty input","status":"passed","testResultsByEnv":{"default":"317a349c54a28584c2a7a592be2b6e5d"}}

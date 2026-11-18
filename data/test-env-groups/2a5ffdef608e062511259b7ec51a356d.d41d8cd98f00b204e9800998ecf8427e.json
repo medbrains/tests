@@ -1,1 +1,0 @@
-{"id":"2a5ffdef608e062511259b7ec51a356d.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::nhcx_claim_payment_test::staff_without_the_nhcx_claim_and_payment_permissions_are_refused","name":"staff_without_the_nhcx_claim_and_payment_permissions_are_refused","status":"passed","testResultsByEnv":{"default":"1589eef5ea779e843d091534a9661c80"}}

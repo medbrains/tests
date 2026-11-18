@@ -1,1 +1,0 @@
-{"id":"999dec97d5c8b9242ea15c9e62a3ffac.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::doctor_payouts_access_test::every_screen_refuses_a_user_without_its_permission","name":"every_screen_refuses_a_user_without_its_permission","status":"passed","testResultsByEnv":{"default":"305386d5bdebe2b4854cb751cea0a8f7"}}

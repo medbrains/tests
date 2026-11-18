@@ -1,1 +1,0 @@
-{"id":"66abff70d7182155af6415ec11486dd9.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/test/permission-store.test.ts#permission-store > hasAnyPermission > returns true when at least one code matches","name":"returns true when at least one code matches","status":"passed","testResultsByEnv":{"default":"8663858dc51c3e0bd172bec29e575060"}}

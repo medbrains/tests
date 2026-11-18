@@ -1,1 +1,0 @@
-{"id":"9adea14760d52a9a51a3cda1bc8dfe08.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::token_call_sms_test::every_queue_that_calls_a_patient_queues_a_dlt_scoped_sms","name":"every_queue_that_calls_a_patient_queues_a_dlt_scoped_sms","status":"passed","testResultsByEnv":{"default":"fdc97a6bed24773b646267b364e88acf"}}

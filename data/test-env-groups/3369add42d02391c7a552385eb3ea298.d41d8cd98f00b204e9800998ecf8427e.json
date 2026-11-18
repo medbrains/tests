@@ -1,1 +1,0 @@
-{"id":"3369add42d02391c7a552385eb3ea298.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-fhir::r4::diagnostic_report::tests::only_a_real_loinc_code_claims_the_loinc_system","name":"only_a_real_loinc_code_claims_the_loinc_system","status":"passed","testResultsByEnv":{"default":"810c9d230425743104826ee17c48f7a8"}}

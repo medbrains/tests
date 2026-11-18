@@ -1,1 +1,0 @@
-{"id":"b73800b1fb802a66c7f5c4e303fcf87b.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/lib/radiology-exams.test.ts#examPriceLabel > names the charge code to price when billing would charge nothing","name":"names the charge code to price when billing would charge nothing","status":"passed","testResultsByEnv":{"default":"92b520e5b4b892657d1eaedfd485cc0a"}}

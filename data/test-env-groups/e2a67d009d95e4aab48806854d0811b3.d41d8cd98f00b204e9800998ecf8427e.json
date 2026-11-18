@@ -1,1 +1,0 @@
-{"id":"e2a67d009d95e4aab48806854d0811b3.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/blood-bank/tti-model.test.ts#ttiSummary > never reads an incomplete panel as cleared","name":"never reads an incomplete panel as cleared","status":"passed","testResultsByEnv":{"default":"992c9118f94cba634aef4f44796dafca"}}

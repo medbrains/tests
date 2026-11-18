@@ -1,1 +1,0 @@
-{"id":"e232edff8ea8b0b80e59c8cda2a6b419.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/lib/date-utils.test.ts#isToday / isPast > QUIRK: today's date is both today and past","name":"QUIRK: today's date is both today and past","status":"passed","testResultsByEnv":{"default":"da30eef7d59a8615a8b3223d76387ba8"}}

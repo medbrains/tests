@@ -1,1 +1,0 @@
-{"id":"426dc8239965532a667d416a1ac9e891.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/lib/claim-settlements.test.ts#canDecide > keeps the recorder from approving their own settlement","name":"keeps the recorder from approving their own settlement","status":"passed","testResultsByEnv":{"default":"08af500d3dbf88aefc65b45d45fd71db"}}

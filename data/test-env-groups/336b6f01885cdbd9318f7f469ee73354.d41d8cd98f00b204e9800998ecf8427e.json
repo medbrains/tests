@@ -1,1 +1,0 @@
-{"id":"336b6f01885cdbd9318f7f469ee73354.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/lib/date-utils.test.ts#toDateString > todayDateString agrees with the frozen clock","name":"todayDateString agrees with the frozen clock","status":"passed","testResultsByEnv":{"default":"2f922142fba1db8189a3e0ff695a216a"}}

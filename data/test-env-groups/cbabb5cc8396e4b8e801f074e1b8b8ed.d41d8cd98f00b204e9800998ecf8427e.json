@@ -1,1 +1,0 @@
-{"id":"cbabb5cc8396e4b8e801f074e1b8b8ed.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::payments_p0_test::without_razorpay_qr_the_counter_falls_back_and_says_why","name":"without_razorpay_qr_the_counter_falls_back_and_says_why","status":"passed","testResultsByEnv":{"default":"c70bc017a5d3cbad30a33301ef65a4ae"}}

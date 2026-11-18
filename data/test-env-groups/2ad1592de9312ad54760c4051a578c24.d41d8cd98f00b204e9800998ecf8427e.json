@@ -1,1 +1,0 @@
-{"id":"2ad1592de9312ad54760c4051a578c24.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/opd/vitals-thresholds.test.ts#bloodPressureSeverity > ignores a value that will not parse rather than trusting it","name":"ignores a value that will not parse rather than trusting it","status":"passed","testResultsByEnv":{"default":"6aab63b9dc799f076d83e1e5a7f7b3ae"}}

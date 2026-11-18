@@ -1,1 +1,0 @@
-{"id":"9c3c7eac59aae67fdc9c9f3eb11dc6e0.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-agent::bin/medbrains-agent::gateway::tests::a_whoami_answer_is_never_larger_than_its_question","name":"a_whoami_answer_is_never_larger_than_its_question","status":"passed","testResultsByEnv":{"default":"edbe5c48a3e07d7c5af5342289399f78"}}

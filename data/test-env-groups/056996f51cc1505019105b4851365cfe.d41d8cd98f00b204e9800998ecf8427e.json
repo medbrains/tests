@@ -1,1 +1,0 @@
-{"id":"056996f51cc1505019105b4851365cfe.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-bridge::bin/medbrains-bridge::hl7_listener::tests::garbage_is_refused_so_the_sender_gets_a_nak","name":"garbage_is_refused_so_the_sender_gets_a_nak","status":"passed","testResultsByEnv":{"default":"591bf18442296c78f1269dbef033b866"}}

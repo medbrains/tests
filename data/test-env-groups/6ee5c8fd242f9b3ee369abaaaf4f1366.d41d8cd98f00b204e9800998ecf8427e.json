@@ -1,1 +1,0 @@
-{"id":"6ee5c8fd242f9b3ee369abaaaf4f1366.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/hooks/use-consent-gate.test.tsx#the consent gate > does not check, and so cannot deny, without a patient","name":"does not check, and so cannot deny, without a patient","status":"passed","testResultsByEnv":{"default":"22c71caa083930d527baefe3399e5ffe"}}

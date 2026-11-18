@@ -1,1 +1,0 @@
-{"id":"8d9d38143c02f0dadf94cd3c5fef118c.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/billing/installment-pay.test.ts#installmentPaySchema > refuses a non-cash payment with no reference to trace it by","name":"refuses a non-cash payment with no reference to trace it by","status":"passed","testResultsByEnv":{"default":"398a31dfeb9fedb3af497238db1515bf"}}

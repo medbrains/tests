@@ -1,1 +1,0 @@
-{"id":"17a8df62b9407064388ccc42513ccd69.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/lib/razorpay-checkout.test.ts#pollUntil > gives up after its bound instead of waiting forever","name":"gives up after its bound instead of waiting forever","status":"passed","testResultsByEnv":{"default":"bd78233b0af393e52a07f221da187c7f"}}

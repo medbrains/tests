@@ -1,1 +1,0 @@
-{"id":"b8bdb2063e4b5e2f0419aced20c00bda.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::nhcx_claim_payment_test::a_payment_notice_settles_the_claim_once_records_tds_and_is_acknowledged","name":"a_payment_notice_settles_the_claim_once_records_tds_and_is_acknowledged","status":"passed","testResultsByEnv":{"default":"537188b1c1e04c911d7f745201cb8e61"}}

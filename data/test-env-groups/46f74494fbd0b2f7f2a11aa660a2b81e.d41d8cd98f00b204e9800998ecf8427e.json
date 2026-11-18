@@ -1,1 +1,0 @@
-{"id":"46f74494fbd0b2f7f2a11aa660a2b81e.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-edge-app::bin/medbrains-edge::roster_fetch::tests::a_cached_roster_reads_back_as_written","name":"a_cached_roster_reads_back_as_written","status":"passed","testResultsByEnv":{"default":"bdd65ef3884b8fc600cc689d0f7157bc"}}

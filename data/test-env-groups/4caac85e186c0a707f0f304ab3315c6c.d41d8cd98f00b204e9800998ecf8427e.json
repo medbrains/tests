@@ -1,1 +1,0 @@
-{"id":"4caac85e186c0a707f0f304ab3315c6c.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::payment_links_test::the_sms_carries_the_url_and_an_expired_link_reads_expired","name":"the_sms_carries_the_url_and_an_expired_link_reads_expired","status":"passed","testResultsByEnv":{"default":"2b82d1ac46b596380e1dada52c1f5db9"}}

@@ -1,1 +1,0 @@
-{"id":"50f0ca39bbd624e840916cb9fda091a7.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-radiology::dose_summary::tests::a_head_and_an_abdomen_with_the_same_dlp_are_not_the_same_dose","name":"a_head_and_an_abdomen_with_the_same_dlp_are_not_the_same_dose","status":"passed","testResultsByEnv":{"default":"3f4ab8bb8b3549d9c7bd3fd7d233969e"}}

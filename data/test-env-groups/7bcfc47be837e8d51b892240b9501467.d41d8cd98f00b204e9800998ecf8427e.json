@@ -1,1 +1,0 @@
-{"id":"7bcfc47be837e8d51b892240b9501467.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/pages/portal/portal-session.test.ts#portal session > treats an expired session as absent, and clears it","name":"treats an expired session as absent, and clears it","status":"passed","testResultsByEnv":{"default":"9c177f842d23f0295e18c1dd24db55e7"}}

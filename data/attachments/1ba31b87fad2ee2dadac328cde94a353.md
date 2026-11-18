@@ -1,0 +1,296 @@
+# Instructions
+
+- Following Playwright test failed.
+- Explain why, be concise, respect Playwright best practices.
+- Provide a snippet of code with the fix, if possible.
+
+# Test info
+
+- Name: journeys/emr-encounter-rail.spec.ts >> the encounter rail leads with the visit and folds the rest under More
+- Location: e2e/journeys/emr-encounter-rail.spec.ts:11:1
+
+# Error details
+
+```
+Test timeout of 30000ms exceeded.
+```
+
+# Page snapshot
+
+```yaml
+- generic [ref=f2e3]:
+  - banner [ref=f2e4]:
+    - generic [ref=f2e5]:
+      - paragraph [ref=f2e9] [cursor=pointer]: MedBrains HMS
+      - generic [ref=f2e10]:
+        - separator [ref=f2e11]
+        - button "Search... ⌘K" [ref=f2e12] [cursor=pointer]:
+          - generic [ref=f2e13]:
+            - paragraph [ref=f2e18]: Search...
+            - generic [ref=f2e19]: ⌘K
+        - button "Help" [ref=f2e20] [cursor=pointer]
+        - button "Notes" [ref=f2e25] [cursor=pointer]
+        - button "Notifications" [ref=f2e31] [cursor=pointer]
+        - generic [ref=f2e36] [cursor=pointer]:
+          - checkbox "Switch to light mode" [checked]
+        - button "Language" [ref=f2e47] [cursor=pointer]
+        - separator [ref=f2e55]
+        - generic [ref=f2e56] [cursor=pointer]:
+          - generic [ref=f2e57]: E
+          - generic [ref=f2e59]:
+            - paragraph [ref=f2e60]: E2E Doctor mwlylktw
+            - paragraph [ref=f2e61]: doctor
+  - navigation [ref=f2e62]:
+    - generic [ref=f2e65]:
+      - generic [ref=f2e66]:
+        - link "Dashboard" [ref=f2e67] [cursor=pointer]:
+          - /url: /dashboard
+          - generic [aria-hidden] [ref=f2e69]: DB
+        - link "Approvals" [ref=f2e70] [cursor=pointer]:
+          - /url: /approvals
+        - link "My Earnings" [ref=f2e75] [cursor=pointer]:
+          - /url: /my-earnings
+          - generic [aria-hidden] [ref=f2e77]: Ern
+        - link "Health Pulse" [ref=f2e78] [cursor=pointer]:
+          - /url: /health-pulse
+          - generic [aria-hidden] [ref=f2e80]: HP
+        - link "Health intelligence" [ref=f2e81] [cursor=pointer]:
+          - /url: /health-intel
+          - generic [aria-hidden] [ref=f2e83]: HI
+      - generic [ref=f2e84]:
+        - separator
+        - link "Patients" [ref=f2e85] [cursor=pointer]:
+          - /url: /patients
+          - generic [aria-hidden] [ref=f2e87]: Pt
+        - link "Immunisation clinic" [ref=f2e88] [cursor=pointer]:
+          - /url: /immunization-clinic
+          - generic [aria-hidden] [ref=f2e90]: Imm
+        - link "OPD Queue" [ref=f2e91] [cursor=pointer]:
+          - /url: /opd
+          - generic [aria-hidden] [ref=f2e93]: OPD
+        - link "Telemedicine" [ref=f2e94] [cursor=pointer]:
+          - /url: /telemedicine
+          - generic [aria-hidden] [ref=f2e96]: Tel
+        - link "Doctor Sign-offs" [ref=f2e97] [cursor=pointer]:
+          - /url: /doctor/signoffs
+          - generic [aria-hidden] [ref=f2e99]: Sig
+        - link "Emergency" [ref=f2e100] [cursor=pointer]:
+          - /url: /emergency
+          - generic [aria-hidden] [ref=f2e102]: ER
+        - link "Order Sets" [ref=f2e103] [cursor=pointer]:
+          - /url: /order-sets
+          - generic [aria-hidden] [ref=f2e105]: OS
+        - link "Chronic Care" [ref=f2e106] [cursor=pointer]:
+          - /url: /chronic-care
+          - generic [aria-hidden] [ref=f2e108]: CC
+        - link "Home healthcare" [ref=f2e109] [cursor=pointer]:
+          - /url: /home-healthcare
+        - link "Home visits" [ref=f2e116] [cursor=pointer]:
+          - /url: /home-visits
+      - generic [ref=f2e121]:
+        - separator
+        - link "Lab" [ref=f2e122] [cursor=pointer]:
+          - /url: /lab
+          - generic [aria-hidden] [ref=f2e124]: Lab
+        - link "Pharmacy" [ref=f2e125] [cursor=pointer]:
+          - /url: /pharmacy
+          - generic [aria-hidden] [ref=f2e127]: Rx
+      - generic [ref=f2e128]:
+        - separator
+        - link "IPD" [ref=f2e129] [cursor=pointer]:
+          - /url: /ipd
+          - generic [aria-hidden] [ref=f2e131]: IPD
+        - link "Care View" [ref=f2e132] [cursor=pointer]:
+          - /url: /care-view
+          - generic [aria-hidden] [ref=f2e134]: CV
+        - link "Case sheet review" [ref=f2e135] [cursor=pointer]:
+          - /url: /case-sheet-review
+        - link "ICU" [ref=f2e140] [cursor=pointer]:
+          - /url: /icu
+          - generic [aria-hidden] [ref=f2e142]: ICU
+        - link "Nurse Activities" [ref=f2e143] [cursor=pointer]:
+          - /url: /nurse
+          - generic [aria-hidden] [ref=f2e145]: Nur
+        - link "Operation Theatre" [ref=f2e146] [cursor=pointer]:
+          - /url: /ot
+          - generic [aria-hidden] [ref=f2e148]: OT
+        - link "Bedside Portal" [ref=f2e149] [cursor=pointer]:
+          - /url: /bedside-portal
+          - generic [aria-hidden] [ref=f2e151]: BP
+      - generic [ref=f2e152]:
+        - separator
+        - link "Insurance & TPA" [ref=f2e153] [cursor=pointer]:
+          - /url: /insurance
+          - generic [aria-hidden] [ref=f2e155]: Ins
+        - link "Indent & Store" [ref=f2e156] [cursor=pointer]:
+          - /url: /indent
+          - generic [aria-hidden] [ref=f2e158]: Ind
+        - link "Materials" [ref=f2e159] [cursor=pointer]:
+          - /url: /materials
+          - generic [aria-hidden] [ref=f2e161]: Mat
+      - generic [ref=f2e162]:
+        - separator
+        - link "Front Office" [ref=f2e163] [cursor=pointer]:
+          - /url: /front-office
+          - generic [aria-hidden] [ref=f2e165]: FO
+        - link "Learning (LMS)" [ref=f2e166] [cursor=pointer]:
+          - /url: /lms
+          - generic [aria-hidden] [ref=f2e168]: LMS
+        - link "Medical Records" [ref=f2e169] [cursor=pointer]:
+          - /url: /mrd
+          - generic [aria-hidden] [ref=f2e171]: MRD
+      - generic [ref=f2e172]:
+        - separator
+        - link "Inter-hospital transfers" [ref=f2e173] [cursor=pointer]:
+          - /url: /inter-hospital-transfers
+        - link "Inter-hospital stock" [ref=f2e180] [cursor=pointer]:
+          - /url: /inter-hospital-stock
+      - generic [ref=f2e187]:
+        - separator
+        - link "Consent Management" [ref=f2e188] [cursor=pointer]:
+          - /url: /consent
+          - generic [aria-hidden] [ref=f2e190]: Cns
+        - link "Regulatory Compliance" [ref=f2e191] [cursor=pointer]:
+          - /url: /regulatory
+          - generic [aria-hidden] [ref=f2e193]: Reg
+        - link "Reports Center" [ref=f2e194] [cursor=pointer]:
+          - /url: /reports
+          - generic [aria-hidden] [ref=f2e196]: Rep
+      - generic [ref=f2e197]:
+        - separator
+        - link "Ophthalmology" [ref=f2e198] [cursor=pointer]:
+          - /url: /specialty/ophthalmology
+          - generic [aria-hidden] [ref=f2e200]: Eye
+        - link "Dental" [ref=f2e201] [cursor=pointer]:
+          - /url: /specialty/dental
+          - generic [aria-hidden] [ref=f2e203]: Dnt
+        - link "Cath Lab" [ref=f2e204] [cursor=pointer]:
+          - /url: /specialty/cath-lab
+          - generic [aria-hidden] [ref=f2e206]: CL
+        - link "Endoscopy" [ref=f2e207] [cursor=pointer]:
+          - /url: /specialty/endoscopy
+          - generic [aria-hidden] [ref=f2e209]: End
+        - link "Psychiatry" [ref=f2e210] [cursor=pointer]:
+          - /url: /specialty/psychiatry
+          - generic [aria-hidden] [ref=f2e212]: Psy
+        - link "Physical Medicine" [ref=f2e213] [cursor=pointer]:
+          - /url: /specialty/pmr
+          - generic [aria-hidden] [ref=f2e215]: PMR
+        - link "Palliative Care" [ref=f2e216] [cursor=pointer]:
+          - /url: /specialty/palliative
+          - generic [aria-hidden] [ref=f2e218]: Pal
+        - link "Maternity" [ref=f2e219] [cursor=pointer]:
+          - /url: /specialty/maternity
+          - generic [aria-hidden] [ref=f2e221]: Mat
+        - link "Other Specialties" [ref=f2e222] [cursor=pointer]:
+          - /url: /specialty/other
+          - generic [aria-hidden] [ref=f2e224]: Spc
+        - link "Cancer registry" [ref=f2e225] [cursor=pointer]:
+          - /url: /specialty/cancer-registry
+          - generic [aria-hidden] [ref=f2e227]: CR
+        - link "Clinical trials" [ref=f2e228] [cursor=pointer]:
+          - /url: /clinical-trials
+      - generic [ref=f2e232]:
+        - separator
+        - link "Admin" [ref=f2e233] [cursor=pointer]:
+          - /url: /admin/doctor-schedules
+          - generic [aria-hidden] [ref=f2e235]: Usr
+    - generic [ref=f2e236]:
+      - separator
+      - button "Expand" [ref=f2e238] [cursor=pointer]
+      - paragraph [ref=f2e244]: v3.33.2
+  - main [ref=f2e245]:
+    - alert "Verify your email" [ref=f2e246]:
+      - generic [ref=f2e251]:
+        - generic [ref=f2e252]: Verify your email
+        - generic [ref=f2e255]:
+          - paragraph [ref=f2e256]: Confirm e2e_doctor_mwlylktw@e2e.medbrains.localhost to secure your account — check your inbox for the link.
+          - button "Resend" [ref=f2e257] [cursor=pointer]
+    - navigation "Breadcrumb" [ref=f2e261]:
+      - list [ref=f2e262]:
+        - listitem [ref=f2e263]:
+          - link "OPD Queue" [ref=f2e264] [cursor=pointer]:
+            - /url: /opd
+          - generic [aria-hidden] [ref=f2e265]: /
+        - listitem [ref=f2e266]:
+          - link "Encounters" [ref=f2e267] [cursor=pointer]:
+            - /url: /opd/encounters
+          - generic [aria-hidden] [ref=f2e268]: /
+        - listitem [ref=f2e269]:
+          - generic [ref=f2e270]: OPD Visit
+    - generic [ref=f2e272]:
+      - generic [ref=f2e273]:
+        - generic [ref=f2e274]:
+          - paragraph [ref=f2e275]: OPD Visit
+          - generic [ref=f2e276]: open
+        - generic [ref=f2e278]:
+          - button "Print visit documents" [ref=f2e279] [cursor=pointer]
+          - button "Back to Queue" [ref=f2e285] [cursor=pointer]
+      - generic [ref=f2e292]:
+        - generic [ref=f2e293]:
+          - generic [ref=f2e294]:
+            - generic [aria-hidden] [ref=f2e295]: EP
+            - generic [ref=f2e296]:
+              - generic [ref=f2e297]: E2E1794997496457 Patient1794997496457
+              - generic [ref=f2e298]: MB-00028 · 41y · male
+          - 'generic "Handoff state: Queued, waiting, in-progress, or handed off between hospital modules." [ref=f2e301]': No vitals on record
+        - generic [ref=f2e308]:
+          - generic [ref=f2e309]:
+            - button "Patient" [ref=f2e311] [cursor=pointer]
+            - button "OPD" [ref=f2e319] [cursor=pointer]
+            - button "IPD" [ref=f2e328] [cursor=pointer]
+            - generic [ref=f2e336]:
+              - 'generic "Handoff state: Queued, waiting, in-progress, or handed off between hospital modules." [ref=f2e337]': Waiting on event
+              - button "Pharmacy" [disabled] [ref=f2e340]
+          - generic [ref=f2e347]:
+            - button "Order Basket" [ref=f2e348] [cursor=pointer]
+            - button "Lab" [ref=f2e357] [cursor=pointer]
+            - button "Imaging" [ref=f2e363] [cursor=pointer]
+            - button "Actions" [ref=f2e370] [cursor=pointer]
+            - 'generic "Stop check: Safety, consent, regulatory, permission, or cleanup attention is needed before flow continues." [ref=f2e381]': 3/4 ready
+        - generic [ref=f2e384]:
+          - generic [ref=f2e386]:
+            - generic [ref=f2e387]:
+              - paragraph [ref=f2e388]: Workup
+              - tablist [ref=f2e389]:
+                - tab "Vitals" [ref=f2e390] [cursor=pointer]
+                - tab "Consultation" [ref=f2e396] [cursor=pointer]
+                - tab "History" [ref=f2e401] [cursor=pointer]
+                - tab "ROS" [ref=f2e407] [cursor=pointer]
+                - tab "Physical Exam" [ref=f2e413] [cursor=pointer]
+            - generic [ref=f2e420]:
+              - paragraph [ref=f2e421]: Assessment & orders
+              - tablist [ref=f2e422]:
+                - tab "Diagnoses" [ref=f2e423] [cursor=pointer]
+                - tab "Investigations" [ref=f2e428] [cursor=pointer]
+                - tab "Procedures" [ref=f2e433] [cursor=pointer]
+                - tab "Prescriptions" [ref=f2e438] [cursor=pointer]
+                - tab "Referrals" [ref=f2e444] [cursor=pointer]
+                - tab "Specialty" [ref=f2e450] [cursor=pointer]
+            - generic [ref=f2e457]:
+              - paragraph [ref=f2e458]: Close the visit
+              - tablist [ref=f2e459]:
+                - tab "Follow-up" [ref=f2e460] [cursor=pointer]
+                - tab "Certificates" [ref=f2e465] [cursor=pointer]
+            - generic [ref=f2e472]:
+              - button "More (7)" [expanded] [ref=f2e473] [cursor=pointer]
+              - tablist [ref=f2e480]:
+                - tab "Charts" [ref=f2e481] [cursor=pointer]
+                - tab "Timeline" [selected] [ref=f2e486] [cursor=pointer]
+                - tab "Reminders" [ref=f2e495] [cursor=pointer]
+                - tab "Consents" [ref=f2e500] [cursor=pointer]
+                - tab "Pre-Auth" [ref=f2e507] [cursor=pointer]
+                - tab "Docket" [ref=f2e513] [cursor=pointer]
+                - tab "Feedback" [ref=f2e518] [cursor=pointer]
+          - tabpanel "Timeline" [ref=f2e524]:
+            - generic [ref=f2e525]:
+              - generic [ref=f2e526]:
+                - combobox "Filter by type" [ref=f2e529] [cursor=pointer]
+                - paragraph [ref=f2e530]: 1 of 1 items
+              - generic [ref=f2e538]:
+                - generic [ref=f2e540]:
+                  - paragraph [ref=f2e541]: OPD visit — open
+                  - paragraph [ref=f2e542]: 11/18/2026
+                - paragraph [ref=f2e544]: General Medicine · Dr. E2E Doctor mwlylktw
+  - button "Open MedBrains assistant (drag to reposition)" [ref=f2e545]
+```

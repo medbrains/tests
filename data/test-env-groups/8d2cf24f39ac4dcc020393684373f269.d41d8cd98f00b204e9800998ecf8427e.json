@@ -1,1 +1,0 @@
-{"id":"8d2cf24f39ac4dcc020393684373f269.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-proxy::bin/medbrains-front::tls::tests::a_garbage_certificate_is_an_error_not_a_panic","name":"a_garbage_certificate_is_an_error_not_a_panic","status":"passed","testResultsByEnv":{"default":"19aa41afbd6da7ec47f356c63d3cbc98"}}

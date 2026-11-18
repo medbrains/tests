@@ -1,1 +1,0 @@
-{"id":"e86367b7d560f8889c507cd77accff9c.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/counter-display/display-machine.test.ts#customer display state machine > walks session → QR → paid → idle as the cashier works","name":"walks session → QR → paid → idle as the cashier works","status":"passed","testResultsByEnv":{"default":"67ac0a81639ea7060c3dc25f85bd4ea9"}}

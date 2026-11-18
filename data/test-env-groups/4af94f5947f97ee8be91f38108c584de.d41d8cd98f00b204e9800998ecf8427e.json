@@ -1,1 +1,0 @@
-{"id":"4af94f5947f97ee8be91f38108c584de.d41d8cd98f00b204e9800998ecf8427e","fullName":"src/components/Nurse/shiftLocation.test.ts#readPunchFix > tells a refused permission apart from a failed fix, without throwing","name":"tells a refused permission apart from a failed fix, without throwing","status":"passed","testResultsByEnv":{"default":"b8968879bcd6344109123348c52cf859"}}

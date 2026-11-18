@@ -1,1 +1,0 @@
-{"id":"e83e8139ef7212dd1f36ca85c44084eb.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::fhir_diagnostic_report_test::released_reports_read_as_fhir_and_a_draft_does_not","name":"released_reports_read_as_fhir_and_a_draft_does_not","status":"passed","testResultsByEnv":{"default":"bb0bba157b829cedef6ac6d83edf7c41"}}

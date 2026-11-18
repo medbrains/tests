@@ -1,1 +1,0 @@
-{"id":"9b66d421ce869929e73f4a13adce3442.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-payment-gateway::pos::step::tests::tender_falls_back_to_what_the_cashier_asked_for","name":"tender_falls_back_to_what_the_cashier_asked_for","status":"passed","testResultsByEnv":{"default":"35921ded92bbdc08124668395cbae4f9"}}

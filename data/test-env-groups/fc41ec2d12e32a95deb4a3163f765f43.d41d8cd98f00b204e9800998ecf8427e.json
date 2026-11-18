@@ -1,1 +1,0 @@
-{"id":"fc41ec2d12e32a95deb4a3163f765f43.d41d8cd98f00b204e9800998ecf8427e","fullName":"medbrains-server::integration::payments_pos_test::a_decline_or_timeout_posts_nothing_and_the_retry_can_go_through","name":"a_decline_or_timeout_posts_nothing_and_the_retry_can_go_through","status":"passed","testResultsByEnv":{"default":"a51d206b56d710e15dbcf9e6d768b140"}}
