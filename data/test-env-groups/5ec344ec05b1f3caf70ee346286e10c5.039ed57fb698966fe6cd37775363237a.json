@@ -1,1 +1,1 @@
-{"id":"5ec344ec05b1f3caf70ee346286e10c5.039ed57fb698966fe6cd37775363237a","fullName":"scenarios/sidebar-visibility.spec.ts › Sidebar — super_admin › shows \"Dashboard\"","name":"shows \"Dashboard\"","status":"passed","testResultsByEnv":{"default":"b71da2fee10056753bbfeb018000d08d"}}
+{"id":"5ec344ec05b1f3caf70ee346286e10c5.039ed57fb698966fe6cd37775363237a","fullName":"scenarios/sidebar-visibility.spec.ts › Sidebar — super_admin › shows \"Dashboard\"","name":"shows \"Dashboard\"","status":"broken","testResultsByEnv":{"default":"183caa37a9a997409fb9fbdb337169bc"}}

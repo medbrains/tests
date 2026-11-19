@@ -1,1 +1,1 @@
-{"id":"d2c78c83b47e39c1690317777f355b7d.328f8a5af46cec4536613f648fe336ee","fullName":"crud/billing.spec.ts › Billing CRUD › invoice create → fetch","name":"invoice create → fetch","status":"passed","testResultsByEnv":{"default":"9add2b522583ab96076b8fb299f89615"}}
+{"id":"d2c78c83b47e39c1690317777f355b7d.328f8a5af46cec4536613f648fe336ee","fullName":"crud/billing.spec.ts › Billing CRUD › invoice create → fetch","name":"invoice create → fetch","status":"skipped","testResultsByEnv":{"default":"b815c520d8f878d3703289fac2e42d07"}}

@@ -1,1 +1,1 @@
-{"id":"c961c8dd91d255b0755ae5e77f06d2f6.39467281c0dcc09b0b013410cc0ae476","fullName":"analytics/indent.spec.ts › Indent analytics › GET /api/indent/analytics/abc","name":"GET /api/indent/analytics/abc","status":"broken","testResultsByEnv":{"default":"ae62a59e67cc489229baa8abcc76edff"}}
+{"id":"c961c8dd91d255b0755ae5e77f06d2f6.39467281c0dcc09b0b013410cc0ae476","fullName":"analytics/indent.spec.ts › Indent analytics › GET /api/indent/analytics/abc","name":"GET /api/indent/analytics/abc","status":"skipped","testResultsByEnv":{"default":"dfecadbc50c2918a4381623b1571e3ae"}}
