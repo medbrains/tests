@@ -1,1 +1,1 @@
-{"id":"d5244c0958d84dc2d8f390034b85da41.328f8a5af46cec4536613f648fe336ee","fullName":"crud/lab.spec.ts › Lab CRUD › 404 on unknown lab order","name":"404 on unknown lab order","status":"skipped","testResultsByEnv":{"default":"d67b0a4d2d6174d61bc7e0a7d68d7a93"}}
+{"id":"d5244c0958d84dc2d8f390034b85da41.328f8a5af46cec4536613f648fe336ee","fullName":"crud/lab.spec.ts › Lab CRUD › 404 on unknown lab order","name":"404 on unknown lab order","status":"passed","testResultsByEnv":{"default":"09eb71a3f4b2261efabc151a51736056"}}

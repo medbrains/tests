@@ -1,1 +1,1 @@
-{"id":"f20ecf2107f15da2985c6b9e5eeb6fae.328f8a5af46cec4536613f648fe336ee","fullName":"crud/blood-bank.spec.ts › Blood Bank CRUD › 404 on unknown donor","name":"404 on unknown donor","status":"skipped","testResultsByEnv":{"default":"4b3a5bfb1922355c190352f42127d7b6"}}
+{"id":"f20ecf2107f15da2985c6b9e5eeb6fae.328f8a5af46cec4536613f648fe336ee","fullName":"crud/blood-bank.spec.ts › Blood Bank CRUD › 404 on unknown donor","name":"404 on unknown donor","status":"passed","testResultsByEnv":{"default":"b519a7479a0221fda3cc554197225b82"}}
