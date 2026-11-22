@@ -1,1 +1,1 @@
-{"id":"d9a63344162c3a00704295b71627087b.328f8a5af46cec4536613f648fe336ee","fullName":"crud/lab.spec.ts › Lab CRUD › catalog list returns at least one test","name":"catalog list returns at least one test","status":"passed","testResultsByEnv":{"default":"99861c98d92f6ae5a6dff5878809ff0c"}}
+{"id":"d9a63344162c3a00704295b71627087b.328f8a5af46cec4536613f648fe336ee","fullName":"crud/lab.spec.ts › Lab CRUD › catalog list returns at least one test","name":"catalog list returns at least one test","status":"skipped","testResultsByEnv":{"default":"acdceb1f0889c50dddbae4d4b514ffd6"}}

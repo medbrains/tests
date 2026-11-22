@@ -1,6 +1,0 @@
-CRAWLED billing_clerk /dashboard []
-CRAWLED billing_clerk /approvals []
-CRAWLED billing_clerk /health-pulse []
-CRAWLED billing_clerk /patients []
-CRAWLED billing_clerk /emergency []
-CRAWLED billing_clerk /pharmacy/finance []
