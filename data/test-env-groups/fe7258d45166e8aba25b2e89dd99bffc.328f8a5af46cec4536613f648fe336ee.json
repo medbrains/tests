@@ -1,1 +1,1 @@
-{"id":"fe7258d45166e8aba25b2e89dd99bffc.328f8a5af46cec4536613f648fe336ee","fullName":"crud/ipd.spec.ts › IPD CRUD › 404 on unknown admission","name":"404 on unknown admission","status":"passed","testResultsByEnv":{"default":"33f4f25e98442d6aefc6e68fd2cacffd"}}
+{"id":"fe7258d45166e8aba25b2e89dd99bffc.328f8a5af46cec4536613f648fe336ee","fullName":"crud/ipd.spec.ts › IPD CRUD › 404 on unknown admission","name":"404 on unknown admission","status":"skipped","testResultsByEnv":{"default":"33b081f3b61f2e81b996c49d43d76a1c"}}

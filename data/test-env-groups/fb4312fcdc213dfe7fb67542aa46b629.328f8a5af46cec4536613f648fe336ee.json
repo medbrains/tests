@@ -1,1 +1,1 @@
-{"id":"fb4312fcdc213dfe7fb67542aa46b629.328f8a5af46cec4536613f648fe336ee","fullName":"crud/billing.spec.ts › Billing CRUD › invoices list paginated","name":"invoices list paginated","status":"passed","testResultsByEnv":{"default":"6b0fc575f84e2f2562de585bd50427ec"}}
+{"id":"fb4312fcdc213dfe7fb67542aa46b629.328f8a5af46cec4536613f648fe336ee","fullName":"crud/billing.spec.ts › Billing CRUD › invoices list paginated","name":"invoices list paginated","status":"skipped","testResultsByEnv":{"default":"dca5b597219f871a2f700b28be7ab216"}}
