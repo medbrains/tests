@@ -1,1 +1,1 @@
-{"id":"d18fa5ff22348665f5f59b8ffe5e52d8.328f8a5af46cec4536613f648fe336ee","fullName":"crud/pharmacy.spec.ts › Pharmacy CRUD › 404 on unknown order","name":"404 on unknown order","status":"skipped","testResultsByEnv":{"default":"4a36823967b04eda446978e46ee5a021"}}
+{"id":"d18fa5ff22348665f5f59b8ffe5e52d8.328f8a5af46cec4536613f648fe336ee","fullName":"crud/pharmacy.spec.ts › Pharmacy CRUD › 404 on unknown order","name":"404 on unknown order","status":"passed","testResultsByEnv":{"default":"52987b16e026aced6b2b229e1dfafb7b"}}
